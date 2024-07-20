@@ -1,0 +1,699 @@
+id,latitude,longitude,place_name,county,alternate_name,distance_to_london,number_mps,silver_street,location_uncertain,reference
+http://data.ordnancesurvey.co.uk/id/4000000074570514,52.0318,-0.493,Ampthill,Bedfordshire,,45,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074543049,52.1355,-0.4665,Bedford,Bedfordshire,,50,2,0.75,,
+http://data.ordnancesurvey.co.uk/id/4000000074572557,52.0866,-0.2642,Biggleswade,Bedfordshire,,45,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074550673,51.886,-0.5209,Dunstable,Bedfordshire,,34,,,,http://archaeologydataservice.ac.uk/archiveDS/archiveDownload?t=arch-674-1/dissemination/pdf/Dunstable/fulltext/Dunstable_Assessment.pdf
+http://data.ordnancesurvey.co.uk/id/4000000074568805,52.2011,-0.61,Harrold,Bedfordshire,,58,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074546869,51.9165,-0.6617,Leighton Buzzard,Bedfordshire,,41,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074572547,51.8781,-0.4145,Luton,Bedfordshire,,31,,0.75,,http://archaeologydataservice.ac.uk/archiveDS/archiveDownload?t=arch-674-1/dissemination/pdf/Luton/fulltext/Luton_Assessment.pdf
+http://data.ordnancesurvey.co.uk/id/4000000074572847,52.1275,-0.2142,Potton,Bedfordshire,,49,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074573977,51.9491,-0.5324,Toddington,Bedfordshire,,39,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074547144,51.9886,-0.6195,Woburn,Bedfordshire,,42,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074564910,51.6702,-1.2814,Abingdon,Berkshire,Abingdon-on-Thames,56,1,,,
+http://data.ordnancesurvey.co.uk/id/4000000074571102,51.3819,-1.1519,Aldermaston,Berkshire,,47,,,1,
+http://data.ordnancesurvey.co.uk/id/4000000074567832,51.5261,-1.2916,East Ilsley,Berkshire,,54,,,1,
+http://data.ordnancesurvey.co.uk/id/4000000074567839,51.6583,-1.5838,Farringdon,Berkshire,Faringdon,69,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074565530,51.4142,-1.5147,Hungerford,Berkshire,,64,,,1,
+http://data.ordnancesurvey.co.uk/id/4000000074568481,51.5084,-1.5309,Lambourn,Berkshire,,68,,,,http://www.british-history.ac.uk/vch/berks/vol4/pp251-266#p3
+http://data.ordnancesurvey.co.uk/id/4000000074564961,51.5228,-0.72,Maidenhead,Berkshire,,26,,,,https://www3.rbwm.gov.uk/download/downloads/id/1001/appraisal_maidenhead_town_centre.pdf
+http://data.ordnancesurvey.co.uk/id/4000000074563915,51.4008,-1.3231,Newbury,Berkshire,,56,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074578568,51.4101,-0.834,Oakingham,Berkshire,Wokingham,32,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074570043,51.4556,-0.9695,Reading,Berkshire,,39,2,,,
+http://data.ordnancesurvey.co.uk/id/4000000074552814,51.6,-1.1247,Wallingford,Berkshire,,46,2,,,
+http://data.ordnancesurvey.co.uk/id/4000000074564587,51.5886,-1.4265,Wantage,Berkshire,,60,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074563985,51.4823,-0.6072,Windsor,Berkshire,,22,2,,,http://www.british-history.ac.uk/vch/berks/vol3/pp56-66#p64
+http://data.ordnancesurvey.co.uk/id/4000000074564653,51.6665,-0.6166,Amersham,Buckinghamshire,,26,2,,,
+http://data.ordnancesurvey.co.uk/id/4000000074545170,51.8162,-0.8125,Aylesbury,Buckinghamshire,,40,2,1,,
+http://data.ordnancesurvey.co.uk/id/4000000074563663,51.6023,-0.6376,Beaconsfield,Buckinghamshire,,23,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074547201,52,-0.9875,Buckingham,Buckinghamshire,,57,2,,,
+http://data.ordnancesurvey.co.uk/id/4000000074546840,51.7038,-0.6133,Chesham,Buckinghamshire,,29,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074564495,51.4844,-0.5277,Colnbrook,Buckinghamshire,,17,,,,http://www.colnbrookwithpoyle-pc.gov.uk/Colnbrook-with-Poyle/UserFiles/Files/History/History%20of%20cwp.pdf
+http://data.ordnancesurvey.co.uk/id/4000000074545211,51.9985,-0.716,Fenny Stratford,Buckinghamshire,,46,,,,https://old.buckscc.gov.uk/media/1566631/Bletchley-and-Fenny-Stratford-Final-Report.pdf
+http://data.ordnancesurvey.co.uk/id/4000000074548133,51.8361,-0.6298,Ivinghoe,Buckinghamshire,,33,,,,https://old.buckscc.gov.uk/media/1615989/Ivinghoe-Final-Report.pdf
+http://data.ordnancesurvey.co.uk/id/4000000074568225,51.5719,-0.777,Marlow,Buckinghamshire,,31,2,,,https://old.buckscc.gov.uk/media/2564489/Marlow-Final-Report.pdf
+http://data.ordnancesurvey.co.uk/id/4000000074547412,52.0869,-0.7214,Newport Pagnell,Buckinghamshire,,52,,0.75,,https://old.buckscc.gov.uk/media/130580/newport_pagnell_consultation_report.pdf
+http://data.ordnancesurvey.co.uk/id/4000000074542301,52.1529,-0.7016,Olney,Buckinghamshire,,56,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074546852,51.7244,-0.8325,Risborough,Buckinghamshire,Princes Risborough,37,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074565270,51.5094,-0.5954,Slough,Buckinghamshire,,20,,,1,
+http://data.ordnancesurvey.co.uk/id/4000000074547187,52.0561,-0.8541,Stony Stratford,Buckinghamshire,,53,,1,,
+http://data.ordnancesurvey.co.uk/id/4000000074548128,51.7629,-0.7413,Wendover,Buckinghamshire,,35,2,,,https://old.buckscc.gov.uk/media/1612714/Wendover-Final-Report.pdf
+http://data.ordnancesurvey.co.uk/id/4000000074545219,51.9414,-0.8818,Winslow,Buckinghamshire,,49,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074563665,51.5817,-0.6887,Wooburn,Buckinghamshire,,26,,,1,
+http://data.ordnancesurvey.co.uk/id/4000000074565915,51.6293,-0.751,Wycomb,Buckinghamshire,High Wycombe,29,2,,,https://old.buckscc.gov.uk/media/1618444/High-Wycombe-Final-Report.pdf
+http://data.ordnancesurvey.co.uk/id/4000000074577087,52.2053,0.1191,Cambridge,Cambridgeshire,,51,2,0.5,,
+http://data.ordnancesurvey.co.uk/id/4000000074574350,52.2078,-0.0931,Caxton,Cambridgeshire,,49,,,,http://archaeologydataservice.ac.uk/archiveDS/archiveDownload?t=arch-2880-1/dissemination/pdf/towns/Caxton_EUS_Report_2015.pdf
+http://data.ordnancesurvey.co.uk/id/4000000074578730,52.3992,0.2663,Ely,Cambridgeshire,,67,,0.5,,
+http://data.ordnancesurvey.co.uk/id/4000000074557400,52.0969,0.2754,Linton,Cambridgeshire,,49,,,,http://archaeologydataservice.ac.uk/archiveDS/archiveDownload?t=arch-2880-1/dissemination/pdf/towns/Linton_EUS_Report_2015.pdf
+http://data.ordnancesurvey.co.uk/id/4000000074543106,52.5491,0.0886,Marsh,Cambridgeshire,March,81,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074578612,52.3341,0.337,Soham,Cambridgeshire,,69,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074551671,52.6217,-0.1078,Thorney,Cambridgeshire,,84,,,,https://books.google.co.nz/books?id=EAA9AAAAIAAJ&pg=PA418
+http://data.ordnancesurvey.co.uk/id/4000000074551318,52.665,0.1609,Wisbich,Cambridgeshire,Wisbech,90,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074555897,53.389,-2.3505,Altringham,Cheshire,Altrincham,180,,,,https://www.trafford.gov.uk/planning/strategic-planning/docs/CAA2014Documents/caa-2014-conservation-area-appraisal-old-market-place.pdf
+http://data.ordnancesurvey.co.uk/id/4000000074556976,53.1915,-2.892,Chester,Cheshire,,182,2,,,
+http://data.ordnancesurvey.co.uk/id/4000000074575234,53.1635,-2.2108,Congleton,Cheshire,,162,,0.5,,
+http://data.ordnancesurvey.co.uk/id/4000000074557688,53.2954,-2.7269,Frodsham,Cheshire,,193,,,,http://archaeologydataservice.ac.uk/archiveDS/archiveDownload?t=arch-1610-1/dissemination/pdf/HTS_Archaeological_Assessments/Vale_Royal/HTS_Arch_Assess_Frodsham.pdf
+http://data.ordnancesurvey.co.uk/id/4000000074554813,53.3306,-2.6937,Halton,Cheshire,,197,,,,http://archaeologydataservice.ac.uk/archiveDS/archiveDownload?t=arch-1610-1/dissemination/pdf/HTS_Archaeological_Assessments/Halton/HTS_Arch_Assess_Runcorn_and_Halton.pdf
+http://data.ordnancesurvey.co.uk/id/4000000074554809,53.305,-2.3755,Knutsford,Cheshire,,173,,,,http://archaeologydataservice.ac.uk/archiveDS/archiveDownload?t=arch-1610-1/dissemination/pdf/HTS_Archaeological_Assessments/Macclesfield/HTS_Arch_Assess_Knutsford.pdf
+http://data.ordnancesurvey.co.uk/id/4000000074577382,53.2604,-2.1255,Macclesfield,Cheshire,,168,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074556866,53.02,-2.7656,Malpas,Cheshire,,166,,,,http://archaeologydataservice.ac.uk/archiveDS/archiveDownload?t=arch-1610-1/dissemination/pdf/HTS_Archaeological_Assessments/Chester/HTS_Arch_Assess_Malpas.pdf
+http://data.ordnancesurvey.co.uk/id/4000000074563150,53.1928,-2.4447,Middlewich,Cheshire,,167,,,,http://archaeologydataservice.ac.uk/archiveDS/archiveDownload?t=arch-1610-1/dissemination/pdf/HTS_Archaeological_Assessments/Congleton/HTS_Arch_Assess_Middlewich_Revised_2013.pdf
+http://data.ordnancesurvey.co.uk/id/4000000074562758,53.0678,-2.5232,Namptwich,Cheshire,Nantwich,165,,,,http://archaeologydataservice.ac.uk/archiveDS/archiveDownload?t=arch-1610-1/dissemination/pdf/HTS_Archaeological_Assessments/Crewe_and_Nantwich/HTS_Arch_Assess_Nantwich.pdf
+http://data.ordnancesurvey.co.uk/id/4000000074562963,53.2612,-2.514,Northwich,Cheshire,,174,,,,http://archaeologydataservice.ac.uk/archiveDS/archiveDownload?t=arch-1610-1/dissemination/pdf/HTS_Archaeological_Assessments/Vale_Royal/HTS_Arch_Assess_Northwich.pdf
+http://data.ordnancesurvey.co.uk/id/4000000074560976,53.1896,-2.5401,Over,Cheshire,,168,,,1,http://archaeologydataservice.ac.uk/archiveDS/archiveDownload?t=arch-1610-1/dissemination/pdf/HTS_Archaeological_Assessments/Vale_Royal/HTS_Arch_Assess_Over_and_Winsford.pdf
+http://data.ordnancesurvey.co.uk/id/4000000074576355,53.143964,-2.36222,Sandbach,Cheshire,,161,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074545870,53.4115,-2.1567,Stockport,Cheshire,,180,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074562555,53.159,-2.6686,Tarporley,Cheshire,,179,,,,http://archaeologydataservice.ac.uk/archiveDS/archiveDownload?t=arch-1610-1/dissemination/pdf/HTS_Archaeological_Assessments/Vale_Royal/HTS_Arch_Assess_Tarporley.pdf
+http://data.ordnancesurvey.co.uk/id/4000000074562159,53.1926,-2.5165,Winsford,Cheshire,,168,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074560012,50.4709,-4.7188,Bodmyn,Cornwall,Bodmin,232,2,,,http://www.historic-cornwall.org.uk/csus/towns/bodmin/csus_bodmin_report_2005R064.pdf
+http://data.ordnancesurvey.co.uk/id/4000000074558834,50.6841,-4.6911,Boscastle,Cornwall,,230,,,,https://www.cornwall.gov.uk/media/3638371/Boscastle-CAA-endorsed-2008.pdf
+http://data.ordnancesurvey.co.uk/id/4000000074556298,50.6225,-4.6793,Camelford,Cornwall,,228,2,,,http://www.historic-cornwall.org.uk/csus/towns/camelford/csus_camelford_report_2005R074.pdf
+http://data.ordnancesurvey.co.uk/id/4000000074557789,50.503,-4.316,Collington,Cornwall,Callington,215,2,,,http://www.historic-cornwall.org.uk/cisi/callington/CISI_callington_report.pdf
+http://data.ordnancesurvey.co.uk/id/4000000074558085,50.353,-4.4535,East Looe,Cornwall,,231,2,,,http://www.historic-cornwall.org.uk/cisi/looe/CISI_Looe_report.pdf
+http://data.ordnancesurvey.co.uk/id/4000000074573892,50.1554,-5.0722,Falmouth,Cornwall,,269,,,,http://www.historic-cornwall.org.uk/csus/towns/falmouth/csus_falmouth_report_2005R003.pdf
+http://data.ordnancesurvey.co.uk/id/4000000074560000,50.3353,-4.6345,Fowey,Cornwall,,240,2,,,https://www.cornwall.gov.uk/media/3638516/Fowey-CAA-March-2010.pdf
+http://data.ordnancesurvey.co.uk/id/4000000074577042,50.298,-4.8998,Grampound,Cornwall,,260,2,,,https://www.cornwall.gov.uk/media/3638517/Grampound-CAA-March-2010.pdf
+http://data.ordnancesurvey.co.uk/id/4000000074542937,50.1011,-5.2754,Helston,Cornwall,,276,2,,,
+http://data.ordnancesurvey.co.uk/id/4000000074558148,50.637,-4.3601,Launceston,Cornwall,,213,2,,,http://www.historic-cornwall.org.uk/csus/towns/launceston/csus_launceston_report_2005R051.pdf
+http://data.ordnancesurvey.co.uk/id/4000000074555937,50.4548,-4.4636,Liskeard,Cornwall,,222,2,,,http://www.historic-cornwall.org.uk/csus/towns/liskeard/csus_liskeard_report_2005R049.pdf
+http://data.ordnancesurvey.co.uk/id/4000000074555930,50.4074,-4.6706,Lostwithell,Cornwall,Lostwithiel,246,2,,,https://www.lostwithiel.org.uk/characterisation.pdf
+http://data.ordnancesurvey.co.uk/id/4000000074578205,50.1235,-5.4727,Marketjew,Cornwall,Marazion,278,,,,https://www.cornwall.gov.uk/media/3638435/Marazion-CAA-March-2010.pdf
+http://data.ordnancesurvey.co.uk/id/4000000074577057,50.5413,-4.9389,Padstow,Cornwall,,243,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074575363,50.1681,-5.1029,Penryn,Cornwall,,266,2,,,http://www.historic-cornwall.org.uk/csus/towns/penryn/csus_penryn_report_2005R070.pdf
+http://data.ordnancesurvey.co.uk/id/4000000074577281,50.1186,-5.5372,Penzance,Cornwall,,281,,,,http://www.historic-cornwall.org.uk/csus/towns/penzance/csus_penzance_report.pdf
+http://data.ordnancesurvey.co.uk/id/4000000074575949,50.2334,-5.2278,Redruth,Cornwall,,263,,,,http://www.historic-cornwall.org.uk/csus/towns/redruth/CSUS_Redruth_Report.pdf
+http://data.ordnancesurvey.co.uk/id/4000000074559660,50.4084,-4.2096,Saltash,Cornwall,,220,2,,,http://www.historic-cornwall.org.uk/csus/towns/saltash/csus_saltash_report_2005R073.pdf
+http://data.ordnancesurvey.co.uk/id/4000000074558440,50.3386,-4.792,St Austle,Cornwall,St. Austell,254,,,,http://www.historic-cornwall.org.uk/csus/towns/staustell/csus_st_austell_report.pdf
+http://data.ordnancesurvey.co.uk/id/4000000074575958,50.2126,-5.4804,St Ives,Cornwall,,276,2,,,
+http://data.ordnancesurvey.co.uk/id/4000000074575385,50.4353,-4.9399,St. Columb,Cornwall,St. Columb Major,251,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074559664,50.3962,-4.3098,St. Germans,Cornwall,,227,2,,1,
+http://data.ordnancesurvey.co.uk/id/4000000074577439,50.8305,-4.5139,Stratton,Cornwall,,221,,,1,https://www.cornwall.gov.uk/media/3638419/Stratton-CAA-March-2010-Part1.pdf
+http://data.ordnancesurvey.co.uk/id/4000000074576790,50.2677,-4.9126,Tregony,Cornwall,,262,2,,1,
+http://data.ordnancesurvey.co.uk/id/4000000074574269,50.2633,-5.0519,Truro,Cornwall,,255,2,,,http://www.historic-cornwall.org.uk/csus/towns/truro/csus_truro_report.pdf
+http://data.ordnancesurvey.co.uk/id/4000000074575689,50.5159,-4.8361,Wadebridge,Cornwall,,239,,,,https://map.cornwall.gov.uk/reports_conservation_areas/Wadebridge.pdf
+http://data.ordnancesurvey.co.uk/id/4000000074558086,50.3529,-4.4562,West Looe,Cornwall,,231,2,,1,http://www.historic-cornwall.org.uk/cisi/looe/CISI_Looe_report.pdf
+http://data.ordnancesurvey.co.uk/id/4000000074547819,54.8126,-2.439,Alston Moor,Cumberland,Alston,305,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074560597,54.283,-3.3731,Bootle,Cumberland,,278,,,1,
+http://data.ordnancesurvey.co.uk/id/4000000074546108,54.9422,-2.7342,Brampton,Cumberland,,315,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074551822,54.8945,-2.9357,Carlisle,Cumberland,,302,2,,,
+http://data.ordnancesurvey.co.uk/id/4000000074548803,54.6642,-3.3614,Cockermouth,Cumberland,,303,2,,,
+http://data.ordnancesurvey.co.uk/id/4000000074548049,54.4811,-3.5288,Egremont,Cumberland,,289,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074551429,54.7378,-3.1846,Ireby,Cumberland,,303,,,1,
+http://data.ordnancesurvey.co.uk/id/4000000074546080,54.6008,-3.1373,Keswick,Cumberland,,291,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074548013,54.7638,-2.6931,Kirkoswald,Cumberland,,292,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074550709,55.0088,-2.972,Longtown,Cumberland,,311,,,1,
+http://data.ordnancesurvey.co.uk/id/4000000074544630,54.6639,-2.7523,Penrith,Cumberland,,282,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074560827,54.354,-3.4108,Ravenglass,Cumberland,,277,,,1,
+http://data.ordnancesurvey.co.uk/id/4000000074566334,54.5474,-3.591,Whitehaven,Cumberland,,294,,,,http://archaeologydataservice.ac.uk/archiveDS/archiveDownload?t=arch-319-1/dissemination/pdf/Copeland/Assessment/Whitehaven_assessment_report.pdf
+http://data.ordnancesurvey.co.uk/id/4000000074553317,54.8247,-3.1613,Wigton,Cumberland,,304,,,,http://archaeologydataservice.ac.uk/archiveDS/archiveDownload?t=arch-319-1/dissemination/pdf/Allerdale/Assessment/Wigton_assessment_report.pdf
+http://data.ordnancesurvey.co.uk/id/4000000074563764,54.6423,-3.5422,Workington,Cumberland,,311,,,,http://archaeologydataservice.ac.uk/archiveDS/archiveDownload?t=arch-319-1/dissemination/pdf/Allerdale/Assessment/Workington_assessment_report.pdf
+http://data.ordnancesurvey.co.uk/id/4000000074548313,53.0974,-1.3905,Alfreton,Derbyshire,,140,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074552767,53.0182,-1.7327,Ashborne,Derbyshire,Ashbourne,139,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074544353,53.2131,-1.6756,Bakewell,Derbyshire,,152,,,,http://archaeologydataservice.ac.uk/archiveDS/archiveDownload?t=arch-881-1/dissemination/pdf/EUS_Texts/Bakewell/Bakewell.pdf
+http://data.ordnancesurvey.co.uk/id/4000000074552024,53.2293,-1.2924,Balsover,Derbyshire,Bolsover,146,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074554732,53.3232,-1.9159,Chapel-en-le-Firth,Derbyshire,Chapel-in-le-Frith,167,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074572064,53.2355,-1.4287,Chesterfield,Derbyshire,,150,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074550123,52.9233,-1.4765,Derby,Derbyshire,,126,2,,,
+http://data.ordnancesurvey.co.uk/id/4000000074573073,53.3021,-1.4752,Dronfield,Derbyshire,,157,,,,http://www.dronfieldcivicsociety.org.uk/Dronfield_Character_Statement_1.pdf
+http://data.ordnancesurvey.co.uk/id/4000000074549811,53.1276,-1.4184,Higham,Derbyshire,,143,,,1,
+http://data.ordnancesurvey.co.uk/id/4000000074542767,53.2799,-1.7745,Tidswell,Derbyshire,Tideswell,160,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074546264,53.1416,-1.6403,Winster,Derbyshire,,152,,,,http://archaeologydataservice.ac.uk/archiveDS/archiveDownload?t=arch-881-1/dissemination/pdf/EUS_Texts/Winster/Winster.pdf
+http://data.ordnancesurvey.co.uk/id/4000000074551634,53.0822,-1.574,Wirksworth,Derbyshire,,139,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074558780,50.5155,-3.756,Ashburton,Devonshire,,191,2,,,http://www.dartmoor.gov.uk/__data/assets/pdf_file/0004/863968/1Ashburton-web-quality.pdf
+http://data.ordnancesurvey.co.uk/id/4000000074541241,50.7828,-2.9984,Axminster,Devonshire,,147,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074576874,50.9905,-3.4873,Bampton,Devonshire,,164,,0.75,,https://www.middevon.gov.uk/media/114964/bampton-conservation-area-appraisal-text.pdf
+http://data.ordnancesurvey.co.uk/id/4000000074574137,51.0806,-4.0593,Barnstaple,Devonshire,,195,2,,,http://archaeologydataservice.ac.uk/archiveDS/archiveDownload?t=arch-2733-1/dissemination/pdf/towns/Barnstaple_EUS_Report.pdf
+http://data.ordnancesurvey.co.uk/id/4000000074577244,51.0169,-4.2073,Bideford,Devonshire,,204,,1,,
+http://data.ordnancesurvey.co.uk/id/4000000074577345,50.801,-3.815,Bow,Devonshire,,188,,,1,
+http://data.ordnancesurvey.co.uk/id/4000000074555844,50.6049,-3.6044,Chudleigh,Devonshire,,182,,,,https://www.teignbridge.gov.uk/media/4389/chudleigh_draft_appraisal_22_july_2011_web.pdf
+http://data.ordnancesurvey.co.uk/id/4000000074574391,50.9126,-3.869,Chumley,Devonshire,Chulmleigh,194,,,1,
+http://data.ordnancesurvey.co.uk/id/4000000074555484,50.7907,-3.6604,Crediton,Devonshire,,180,,,,http://archaeologydataservice.ac.uk/archiveDS/archiveDownload?t=arch-2733-1/dissemination/pdf/towns/Crediton_EUS_Report.pdf
+http://data.ordnancesurvey.co.uk/id/4000000074553816,50.7408,-3.0702,Culliton,Devonshire,Colyton,150,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074574773,50.8581,-3.3935,Cullompton,Devonshire,,165,,,,https://www.middevon.gov.uk/media/114974/cullompton_conservation_appraisal-september-2003.pdf
+http://data.ordnancesurvey.co.uk/id/4000000074547034,50.2844,-3.776,Dodbrook,Devonshire,Dodbrooke,219,,,,http://archaeologydataservice.ac.uk/archiveDS/archiveDownload?t=arch-2733-1/dissemination/pdf/towns/Kingsbridge_EUS_Report.pdf
+http://data.ordnancesurvey.co.uk/id/4000000074556577,50.722,-3.5334,Exeter,Devonshire,,172,2,,,https://drive.google.com/file/d/0B4CpCORtOQdTT0NjbjFBRGVzdHc/view
+http://data.ordnancesurvey.co.uk/id/4000000074575637,50.9926,-4.4822,Hartland,Devonshire,,217,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074574121,50.8218,-4.0721,Hatherleigh,Devonshire,,200,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074577027,50.81,-4.3532,Holdsworthy,Devonshire,Holsworthy,214,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074575853,50.7995,-3.1895,Honiton,Devonshire,,152,2,1,,
+http://data.ordnancesurvey.co.uk/id/4000000074546737,50.2862,-3.7779,Kingsbridge,Devonshire,,207,,,,http://archaeologydataservice.ac.uk/archiveDS/archiveDownload?t=arch-2733-1/dissemination/pdf/towns/Kingsbridge_EUS_Report.pdf
+http://data.ordnancesurvey.co.uk/id/4000000074559504,50.3491,-3.8869,Modbury,Devonshire,,207,,,1,
+http://data.ordnancesurvey.co.uk/id/4000000074556221,50.661,-3.7649,Moreton-Hampstead,Devonshire,Moretonhampstead,184,,,,http://www.dartmoor.gov.uk/__data/assets/pdf_file/0011/987473/Moreton-R6-2.compressed.pdf
+http://data.ordnancesurvey.co.uk/id/4000000074558404,50.5295,-3.6123,Newton-Abbot,Devonshire,Newton Abbot,187,,,,http://archaeologydataservice.ac.uk/archiveDS/archiveDownload?t=arch-2733-1/dissemination/pdf/towns/Newton_Abbot_EUS_Report.pdf
+http://data.ordnancesurvey.co.uk/id/4000000074555488,50.739,-4.0033,Oakhampton,Devonshire,Okehampton,195,2,,,http://archaeologydataservice.ac.uk/archiveDS/archiveDownload?t=arch-2733-1/dissemination/pdf/towns/Okehampton_EUS_Report.pdf
+http://data.ordnancesurvey.co.uk/id/4000000074549317,50.7524,-3.2789,Ottery St. Marys,Devonshire,Ottery St. Mary,164,,1,,
+http://data.ordnancesurvey.co.uk/id/4000000074555542,50.3717,-4.1397,Plymouth,Devonshire,,217,2,,,
+http://data.ordnancesurvey.co.uk/id/4000000074555099,50.383,-4.0494,Plympton,Devonshire,,211,1,,1,
+http://data.ordnancesurvey.co.uk/id/4000000074576044,51.0177,-3.8344,South Moulton,Devonshire,South Molton,179,,,,http://archaeologydataservice.ac.uk/archiveDS/archiveDownload?t=arch-2733-1/dissemination/pdf/towns/South_Molton_EUS_Report.pdf
+http://data.ordnancesurvey.co.uk/id/4000000074558456,50.5503,-4.1464,Tavistock,Devonshire,,205,2,,,
+http://data.ordnancesurvey.co.uk/id/4000000074575849,50.8266,-2.8862,Thorncomb,Devonshire,Thorncombe,138,,,,http://www.thorncombe-village-trust.co.uk/page75.html
+http://data.ordnancesurvey.co.uk/id/4000000074576320,50.9031,-3.4863,Tiverton,Devonshire,,165,2,,,http://archaeologydataservice.ac.uk/catalogue/adsdata/arch-2733-1/dissemination/pdf/towns/Tiverton_EUS_Report.pdf
+http://data.ordnancesurvey.co.uk/id/4000000074577032,50.952,-4.1432,Torrington,Devonshire,Great Torrington,194,,,,http://archaeologydataservice.ac.uk/archiveDS/archiveDownload?t=arch-2733-1/dissemination/pdf/towns/Great_Torrington_EUS_Report.pdf
+http://data.ordnancesurvey.co.uk/id/4000000074555093,50.4314,-3.6893,Totness,Devonshire,Totnes,195,2,,,http://archaeologydataservice.ac.uk/archiveDS/archiveDownload?t=arch-2733-1/dissemination/pdf/towns/Totnes_EUS_Report.pdf
+http://data.ordnancesurvey.co.uk/id/4000000074576409,50.9064,-3.3274,Uffculme,Devonshire,,162,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074551121,50.856,-2.1654,Beaminster,Dorsetshire,Blandford Forum,104,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074576929,50.809,-2.7391,Beaminster,Dorsetshire,,137,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074553810,50.7335,-2.7582,Bridport,Dorsetshire,,134,2,,,
+http://data.ordnancesurvey.co.uk/id/4000000074553010,50.8091,-2.4757,Cerne Abbas,Dorsetshire,,121,,,,https://www.dorsetforyou.gov.uk/planning-buildings-land/planning/planning-constraints/conservation-areas/west-dorset/pdfs/cerne-abbas-charminster-sydling-st-nicholas-and-godmanstone-conservation-area-appraisal.pdf
+http://data.ordnancesurvey.co.uk/id/4000000074553410,50.6384,-2.057599,Corfe Castle,Dorsetshire,,120,2,,,https://www.british-history.ac.uk/rchme/dorset/vol2/pp52-100#p157
+http://data.ordnancesurvey.co.uk/id/4000000074313201,50.9194,-1.923,Cranbourne,Dorsetshire,Cranborne,92,,,1,
+http://data.ordnancesurvey.co.uk/id/4000000074550040,50.7154,-2.4366,Dorchester,Dorsetshire,,120,2,,,https://www.dorsetforyou.gov.uk/planning-buildings-land/planning/planning-constraints/conservation-areas/west-dorset/pdfs/dorchester-conservation-area-appraisal-part-one.pdf
+http://data.ordnancesurvey.co.uk/id/4000000074550799,50.7246,-2.9334,Lyme,Dorsetshire,Lyme Regis,143,2,0.75,,https://www.dorsetforyou.gov.uk/planning-buildings-land/planning/planning-constraints/conservation-areas/west-dorset/pdfs/lyme-regis-conservation-area-appraisal-review.pdf
+http://data.ordnancesurvey.co.uk/id/4000000074550413,50.7146,-1.9874,Poole,Dorsetshire,,106,2,,,https://www.british-history.ac.uk/rchme/dorset/vol2/pp189-240#p77
+http://data.ordnancesurvey.co.uk/id/4000000074551489,51.0058,-2.1974,Shaftesbury,Dorsetshire,,101,2,,,
+http://data.ordnancesurvey.co.uk/id/4000000074552254,50.9469,-2.5154,Sherborne,Dorsetshire,,117,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074551876,50.9594,-2.3783,Stalbridge,Dorsetshire,,113,,,,https://www.dorsetforyou.gov.uk/libraries-history-culture/local-history-heritage/pdf/historic-towns/stalbridge/stalbridge-part-5.1-and-5.2-medieval-and-post-medieval-february-2011.pdf
+http://data.ordnancesurvey.co.uk/id/4000000074550371,50.9262,-2.305,Sturminster Newton,Dorsetshire,,111,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074550410,50.686,-2.1102,Wareham,Dorsetshire,,115,2,,,
+http://data.ordnancesurvey.co.uk/id/4000000074566652,50.8001,-1.998,Winbourne,Dorsetshire,Wimborne Minster,101,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074559332,54.5422,-1.9238,Barnard Castle,Durham,,247,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074555989,54.6655,-1.6741,Bishop Auckland,Durham,,257,,1,,
+http://data.ordnancesurvey.co.uk/id/4000000074555966,54.5243,-1.5542,Darlington,Durham,,243,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074559702,54.7769,-1.5756,Durham,Durham,,260,2,1,,
+http://data.ordnancesurvey.co.uk/id/4000000074576671,54.6934,-1.1836,Hartlepool,Durham,,261,,,1,https://www.british-history.ac.uk/vch/durham/vol3/pp263-285#p14
+http://data.ordnancesurvey.co.uk/id/4000000074559324,54.5639,-1.3129,Stockton,Durham,Stockton-On-Tees,248,,1,,
+http://data.ordnancesurvey.co.uk/id/4000000074578903,51.5358,0.0767,Barking,Essex,,7,,,,https://www.british-history.ac.uk/vch/essex/vol5/pp214-219#p23
+http://data.ordnancesurvey.co.uk/id/4000000074572649,51.6261,0.4182,Billericay,Essex,,23,,,,http://archaeologydataservice.ac.uk/catalogue/adsdata/arch-681-1/dissemination/pdf/Billericay/fulltext/Billericay_1999_Historic_Towns_Assessment_Report.pdf
+http://data.ordnancesurvey.co.uk/id/4000000074572318,51.8709,0.159,Bishop's Stortford,Essex,,30,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074558924,51.8783,0.5525,Braintree,Essex,,40,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074541699,51.7345,0.4729,Chelmsford,Essex,,29,,,,http://archaeologydataservice.ac.uk/catalogue/adsdata/arch-681-1/dissemination/pdf/Chelmsford/fulltext/Chelmsford_1999_Historic_Towns_Assessment_Report.pdf
+http://data.ordnancesurvey.co.uk/id/4000000074558865,51.8714,0.6861,Coggeshal,Essex,Coggeshall,44,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074559170,51.8898,0.8995,Colchester,Essex,,51,2,,,https://www.british-history.ac.uk/vch/essex/vol9/pp269-274#p8
+http://data.ordnancesurvey.co.uk/id/4000000074557013,51.8727,0.3623,Dunmow,Essex,Great Dunmow,38,,,,http://archaeologydataservice.ac.uk/catalogue/adsdata/arch-681-1/dissemination/pdf/Great_Dunmow/fulltext/Great_Dunmow_1999_Historic_Towns_Assessment_Report.pdf
+http://data.ordnancesurvey.co.uk/id/4000000074570934,51.6983,0.1103,Epping,Essex,,17,,,,http://archaeologydataservice.ac.uk/catalogue/adsdata/arch-681-1/dissemination/pdf/Epping/fulltext/Epping_1999_Historic_Towns_Assessment_Report.pdf
+http://data.ordnancesurvey.co.uk/id/4000000074572990,51.4743,0.3227,Grays,Essex,,25,,,,https://www.british-history.ac.uk/vch/essex/vol8/pp35-56#p38
+http://data.ordnancesurvey.co.uk/id/4000000074558925,51.9452,0.6387,Halstead,Essex,,46,,,,http://archaeologydataservice.ac.uk/catalogue/adsdata/arch-681-1/dissemination/pdf/Halstead/fulltext/Halstead_1999_Historic_Towns_Assessment_Report.pdf
+http://data.ordnancesurvey.co.uk/id/4000000074544537,51.9467,1.2876,Harwich,Essex,,72,2,,,http://archaeologydataservice.ac.uk/catalogue/adsdata/arch-681-1/dissemination/pdf/Harwich/fulltext/Harwich_1999_Historic_Towns_Assessment_Report.pdf
+http://data.ordnancesurvey.co.uk/id/4000000074559196,51.7105,0.2643,High-Ongar,Essex,High Ongar,21,,,1,
+http://data.ordnancesurvey.co.uk/id/4000000074573660,51.5238,0.4058,Horndon,Essex,Horndon on the Hill,29,,,,http://archaeologydataservice.ac.uk/catalogue/adsdata/arch-681-1/dissemination/pdf/Horndon_on_the_Hill/fulltext/Horndon_on_the_Hill_1999_Historic_Towns_Assessment_Report.pdf
+http://data.ordnancesurvey.co.uk/id/4000000074556641,51.7315,0.6764,Malden,Essex,Maldon,37,2,1,,
+http://data.ordnancesurvey.co.uk/id/4000000074546229,51.9454,1.0637,Maningtree,Essex,Manningtree,60,,,,http://archaeologydataservice.ac.uk/catalogue/adsdata/arch-681-1/dissemination/pdf/Manningtree/fulltext/Manningtree_1999_Historic_Towns_Assessment_Report.pdf
+http://data.ordnancesurvey.co.uk/id/4000000074556673,51.7041,0.2455,Ongar,Essex,Chipping Ongar,21,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074544909,51.5861,0.6053,Rayleigh,Essex,,34,,,,http://archaeologydataservice.ac.uk/catalogue/adsdata/arch-681-1/dissemination/pdf/Rayleigh/fulltext/Rayleigh_1999_Historic_Towns_Assessment_Report.pdf
+http://data.ordnancesurvey.co.uk/id/4000000074546609,51.5824,0.7065,Rochford,Essex,,40,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074569531,51.579502,0.182422,Rumford,Essex,Romford,12,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074559902,52.0238,0.2411,Saffron Walden,Essex,,43,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074557071,51.9534,0.3442,Thaxted,Essex,,46,,,,http://archaeologydataservice.ac.uk/catalogue/adsdata/arch-681-1/dissemination/pdf/Thaxted/fulltext/Thaxted_1999_Historic_Towns_Assessment_Report.pdf
+http://data.ordnancesurvey.co.uk/id/4000000074541994,51.6868,-0.0027,Waltham Abbey,Essex,,12,,1,,
+http://data.ordnancesurvey.co.uk/id/4000000074559179,51.7993,0.6393,Witham,Essex,,37,,,,http://archaeologydataservice.ac.uk/catalogue/adsdata/arch-681-1/dissemination/pdf/Witham/fulltext/Witham_1999_Historic_Towns_Assessment_Report.pdf
+http://data.ordnancesurvey.co.uk/id/4000000074572175,51.6913,-2.4585,Berkley,Gloucestershire,Berkeley,113,,,,http://archaeologydataservice.ac.uk/catalogue/adsdata/arch-806-1/dissemination/pdf/berkeley/Stroud_Berkeley_archaeological_assessment.pdf
+http://data.ordnancesurvey.co.uk/id/4000000074576443,51.752,-2.1396,Bisley,Gloucestershire,,97,,,,http://archaeologydataservice.ac.uk/catalogue/adsdata/arch-806-1/dissemination/pdf/bisley/Stroud_Bisley_archaeological_assessment.pdf
+http://data.ordnancesurvey.co.uk/id/4000000074564026,52.0504,-1.7818,Campden,Gloucestershire,Chipping Campden,90,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074576734,51.9018,-2.0758,Cheltenham,Gloucestershire,,95,,,,http://archaeologydataservice.ac.uk/catalogue/adsdata/arch-806-1/dissemination/pdf/cheltenham/Cheltenham_Cheltenham_Archaeological_Assessment.pdf
+http://data.ordnancesurvey.co.uk/id/4000000074541895,51.7172,-1.9676,Cirencester,Gloucestershire,,88,2,,,
+http://data.ordnancesurvey.co.uk/id/4000000074542625,51.6813,-2.354,Dursley,Gloucestershire,,108,,1,,
+http://data.ordnancesurvey.co.uk/id/4000000074564667,51.7078,-1.7814,Fairford,Gloucestershire,,80,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074577905,51.8647,-2.2449,Gloucester,Gloucestershire,,102,2,,,https://www.gloucester.gov.uk/media/1165/citycentrecasep07.pdf
+http://data.ordnancesurvey.co.uk/id/4000000074576447,51.7054,-2.1855,Hampton,Gloucestershire,Minchinhampton,98,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074563613,51.6942,-1.6911,Lechlade,Gloucestershire,Lechlade on Thames,75,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074576487,51.7234,-2.5376,Lidney,Gloucestershire,Lydney,124,,,,http://archaeologydataservice.ac.uk/catalogue/adsdata/arch-806-1/dissemination/pdf/lydney/Forest_Lydney_archaeological_assessment.pdf
+http://data.ordnancesurvey.co.uk/id/4000000074570082,51.4617,-2.3164,Marshfield,Gloucestershire,,102,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074578627,51.8662,-2.4893,Mitchel Dean,Gloucestershire,Mitcheldean,116,,,,http://archaeologydataservice.ac.uk/catalogue/adsdata/arch-806-1/dissemination/pdf/mitcheldean/Forest_Mitcheldean_archaeological_assessment.pdf
+http://data.ordnancesurvey.co.uk/id/4000000074566939,51.99,-1.7034,Moreton-In-Marsh,Gloucestershire,,82,,,,http://archaeologydataservice.ac.uk/catalogue/adsdata/arch-806-1/dissemination/pdf/moreton-in-marsh/Cotswolds_Moreton-In-Marsh_archaeological_assessment.pdf
+http://data.ordnancesurvey.co.uk/id/4000000074579825,51.9302,-2.4048,Newent,Gloucestershire,,114,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074578133,51.8046,-2.4493,Newnham,Gloucestershire,,116,,,,http://archaeologydataservice.ac.uk/catalogue/adsdata/arch-806-1/dissemination/pdf/newnham/Forest_Newnham_archaeological_assessment.pdf
+http://data.ordnancesurvey.co.uk/id/4000000074568245,51.8298,-1.837,Northleach,Gloucestershire,,81,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074578106,51.7859,-2.1934,Painswick,Gloucestershire,,100,,,,http://archaeologydataservice.ac.uk/catalogue/adsdata/arch-806-1/dissemination/pdf/painswick/Stroud_Painswick_archaeological_assessment.pdf
+http://data.ordnancesurvey.co.uk/id/4000000074570468,51.5381,-2.3938,Sodbury,Gloucestershire,Chipping Sodbury,108,,,,https://www.southglos.gov.uk/documents/pte090040.pdf
+http://data.ordnancesurvey.co.uk/id/4000000074565939,51.9303,-1.723,Stow on the Wold,Gloucestershire,Stow-on-the-wold,82,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074576458,51.7455,-2.2156,Stroud,Gloucestershire,,101,,,,http://archaeologydataservice.ac.uk/catalogue/adsdata/arch-806-1/dissemination/pdf/stroud/Stroud_Stroud_archaeological_assessment.pdf
+http://data.ordnancesurvey.co.uk/id/4000000074570108,51.6368,-2.1592,Tetbury,Gloucestershire,,98,,1,,
+http://data.ordnancesurvey.co.uk/id/4000000074578750,51.9938,-2.1571,Tewksbury,Gloucestershire,Tewkesbury,104,2,,,http://archaeologydataservice.ac.uk/catalogue/adsdata/arch-806-1/dissemination/pdf/tewkesbury/Tewkesbury_Tewkesbury_archaeological_assessment.pdf
+http://data.ordnancesurvey.co.uk/id/4000000074570474,51.608,-2.526,Thornbury,Gloucestershire,,124,,1,,http://www.southglos.gov.uk/documents/leaflets/pte050044.pdf
+http://data.ordnancesurvey.co.uk/id/4000000074568792,51.5941,-2.3996,Wickware,Gloucestershire,Wickwar,112,,,,https://www.southglos.gov.uk/documents/cos080259.pdf
+http://data.ordnancesurvey.co.uk/id/4000000074567933,51.9535,-1.9639,Winchcomb,Gloucestershire,Winchcombe,95,,,,http://archaeologydataservice.ac.uk/catalogue/adsdata/arch-806-1/dissemination/pdf/winchcombe/Tewkesbury_Winchcombe_archaeological_assessment.pdf
+http://data.ordnancesurvey.co.uk/id/4000000074569114,51.6371,-2.3539,Wotton Under Edge,Gloucestershire,Wotton-Under-Edge,107,,,,http://archaeologydataservice.ac.uk/catalogue/adsdata/arch-806-1/dissemination/pdf/wotton-under-edge/Stroud_WottonUnderEdge_archaeological_assessment.pdf
+http://data.ordnancesurvey.co.uk/id/4000000074565185,51.0915,-1.1617,Alresford,Hampshire,New Alresford,60,,,,http://archaeologydataservice.ac.uk/catalogue/adsdata/arch-378-1/dissemination/pdf/winchester/new_alresford/assessment/alresford_assessment.pdf
+http://data.ordnancesurvey.co.uk/id/4000000074566158,51.1485,-0.9779,Alton,Hampshire,,47,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074567982,51.2078,-1.4793,Andover,Hampshire,,64,2,,,
+http://data.ordnancesurvey.co.uk/id/4000000074568680,51.262566,-1.08702,Basingstoke,Hampshire,,45,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074553635,50.7338,-1.7559,Christchurch,Hampshire,,100,2,,,https://www.dorsetforyou.gov.uk/planning-buildings-land/planning/planning-constraints/conservation-areas/christchurch/pdfs/christchurch/christchurch-central-town-centre-conservation-area-appraisal-management-plan-adopted-sept-2005.pdf
+http://data.ordnancesurvey.co.uk/id/4000000074562891,50.8524,-1.1742,Fareham,Hampshire,,73,,,,http://archaeologydataservice.ac.uk/catalogue/adsdata/arch-378-1/dissemination/pdf/fareham/fareham/assessment/fareham_assessment.pdf
+http://data.ordnancesurvey.co.uk/id/4000000074565667,50.9265,-1.7925,Fordingbridge,Hampshire,,91,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074563053,50.7951,-1.118,Gosport,Hampshire,,78,,,,http://archaeologydataservice.ac.uk/catalogue/adsdata/arch-378-1/dissemination/pdf/gosport/gosport/assessment/gosport_assessment.pdf
+http://data.ordnancesurvey.co.uk/id/4000000074563072,50.9314,-1.0808,Hambledon,Hampshire,,66,,,,https://books.google.co.nz/books?id=iu0uAAAAMAAJ&pg=PA566
+http://data.ordnancesurvey.co.uk/id/4000000074561544,50.8514,-0.9815,Havant,Hampshire,,66,,,,http://archaeologydataservice.ac.uk/catalogue/adsdata/arch-378-1/dissemination/pdf/havant/havant/assessment/havant_assessment.pdf
+http://data.ordnancesurvey.co.uk/id/4000000074570380,51.3249,-1.2469,Kingsclear,Hampshire,Kingsclere,55,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074553295,50.7584,-1.5416,Lymington,Hampshire,,96,2,,,http://archaeologydataservice.ac.uk/catalogue/adsdata/arch-378-1/dissemination/pdf/new_forest/lymington/assessment/lymington_assessment.pdf
+http://data.ordnancesurvey.co.uk/id/4000000074549183,50.6995,-1.294,"Newport, Isle Of Wight",Hampshire,,97,2,,,http://archaeologydataservice.ac.uk/catalogue/adsdata/arch-378-1/dissemination/pdf/isle_of_wight/newport/assessment/newport_assessment.pdf
+http://data.ordnancesurvey.co.uk/id/4000000074569030,51.243954,-1.265624,Overton,Hampshire,,54,,,,http://archaeologydataservice.ac.uk/catalogue/adsdata/arch-378-1/dissemination/pdf/basingstoke/overton/assessment/overton_assessment.pdf
+http://data.ordnancesurvey.co.uk/id/4000000074561907,51.0038,-0.9375,Petersfield,Hampshire,,55,2,,,http://archaeologydataservice.ac.uk/catalogue/adsdata/arch-378-1/dissemination/pdf/east_hants/petersfield/assessment/petersfield_assessment.pdf
+http://data.ordnancesurvey.co.uk/id/4000000074562880,50.7903,-1.1036,Portsmouth,Hampshire,,73,2,,,https://www.british-history.ac.uk/vch/hants/vol3/pp172-192#p45
+http://data.ordnancesurvey.co.uk/id/4000000074565336,50.8469,-1.795,Ringwood,Hampshire,,96,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074568287,50.9891,-1.4999,Rumsey,Hampshire,Romsey,73,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074564709,50.902651,-1.404087,Southampton,Hampshire,,78,2,,1,
+http://data.ordnancesurvey.co.uk/id/4000000074567663,51.1142,-1.4929,Stockbridge,Hampshire,,66,2,,,http://archaeologydataservice.ac.uk/catalogue/adsdata/arch-378-1/dissemination/pdf/test_valley/stockbridge/assessment/stockbridge_assessment.pdf
+http://data.ordnancesurvey.co.uk/id/4000000074563062,50.84906,-1.234338,Titchfield,Hampshire,,78,,,,http://archaeologydataservice.ac.uk/catalogue/adsdata/arch-378-1/dissemination/pdf/fareham/titchfield/assessment/titchfield_assessment.pdf
+http://data.ordnancesurvey.co.uk/id/4000000074565992,51.2299,-1.3391,Whitchurch,Hampshire,,58,2,,,http://archaeologydataservice.ac.uk/catalogue/adsdata/arch-378-1/dissemination/pdf/basingstoke/whitchurch/assessment/whitchurch_assessment.pdf
+http://data.ordnancesurvey.co.uk/id/4000000074565988,51.0623,-1.3134,Winchester,Hampshire,,62,2,,,https://www.british-history.ac.uk/vch/hants/vol5/pp1-9#p22
+http://data.ordnancesurvey.co.uk/id/4000000074553285,50.70624,-1.499471,"Yarmouth, Isle of WIght",Hampshire,,101,2,,,
+http://data.ordnancesurvey.co.uk/id/4000000074568000,52.189,-2.5049,Bromyard,Herefordshire,,125,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074579014,52.0565,-2.715,Hereford,Herefordshire,,135,2,,1,
+http://data.ordnancesurvey.co.uk/id/4000000074560359,52.2035,-3.0301,Kington,Herefordshire,,155,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074579830,52.037,-2.4228,Lebdury,Herefordshire,Ledbury,121,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074560143,52.2279,-2.7387,Leominster,Herefordshire,,137,2,,,http://archaeologydataservice.ac.uk/catalogue/adsdata/arch-435-1/dissemination/pdf/PDF_REPORTS_TEXT/HEREFORDSHIRE/LEOMINSTER_REPORT.pdf
+http://data.ordnancesurvey.co.uk/id/4000000074561198,52.2178,-2.8939,Pembridge,Herefordshire,,150,,,,http://archaeologydataservice.ac.uk/catalogue/adsdata/arch-435-1/dissemination/pdf/PDF_REPORTS_TEXT/HEREFORDSHIRE/PEMBRIDGE_REPORT.pdf
+http://data.ordnancesurvey.co.uk/id/4000000074579457,51.9143,-2.584,Ross,Herefordshire,Ross-on-Wye,121,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074563166,52.1594,-2.8946,Weobley,Herefordshire,,146,2,,,http://archaeologydataservice.ac.uk/catalogue/adsdata/arch-435-1/dissemination/pdf/PDF_REPORTS_TEXT/HEREFORDSHIRE/WEOBLEY_REPORT.pdf
+http://data.ordnancesurvey.co.uk/id/4000000074569172,51.9896,-0.1888,Baldock,Hertfordshire,,37,,,,http://archaeologydataservice.ac.uk/catalogue/adsdata/arch-436-1/dissemination/pdf/baldock.pdf
+http://data.ordnancesurvey.co.uk/id/4000000074542703,51.653,-0.2003,Barnet,Hertfordshire,High Barnet,11,,,,https://barnetsociety.org.uk/history
+http://data.ordnancesurvey.co.uk/id/4000000074546398,51.7599,-0.5631,Berkhamsted,Hertfordshire,,26,,,,http://archaeologydataservice.ac.uk/catalogue/adsdata/arch-436-1/dissemination/pdf/berkhamstead.pdf
+http://data.ordnancesurvey.co.uk/id/4000000074572639,51.9461,-0.0185,Buntingford,Hertfordshire,,31,,,,http://archaeologydataservice.ac.uk/catalogue/adsdata/arch-436-1/dissemination/pdf/buntingford.pdf
+http://data.ordnancesurvey.co.uk/id/4000000074567483,51.7623,-0.2141,Hatfield,Hertfordshire,,19,,,,http://archaeologydataservice.ac.uk/catalogue/adsdata/arch-436-1/dissemination/pdf/hatfield.pdf
+http://data.ordnancesurvey.co.uk/id/4000000074550625,51.759,-0.4721,Hemel Hempstead,Hertfordshire,,23,,,,http://archaeologydataservice.ac.uk/catalogue/adsdata/arch-436-1/dissemination/pdf/hemel_hempstead.pdf
+http://data.ordnancesurvey.co.uk/id/4000000074573674,51.7964,-0.0776,Hertford,Hertfordshire,,21,2,,,
+http://data.ordnancesurvey.co.uk/id/4000000074572540,51.9474,-0.2788,Hitchin,Hertfordshire,,34,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074569872,51.7614,-0.0114,Hoddesdon,Hertfordshire,,17,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074562751,51.6388,-0.4694,Rickmansworth,Hertfordshire,,19,,,,http://archaeologydataservice.ac.uk/catalogue/adsdata/arch-436-1/dissemination/pdf/rickmansworth.pdf
+http://data.ordnancesurvey.co.uk/id/4000000074571282,52.0461,-0.022,Royston,Hertfordshire,,37,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074570942,51.8123,0.1511,Sawbridgworth,Hertfordshire,Sawbridgeworth,25,,,,http://archaeologydataservice.ac.uk/catalogue/adsdata/arch-436-1/dissemination/pdf/sawbridgeworth.pdf
+http://data.ordnancesurvey.co.uk/id/4000000074550620,51.7512,-0.3406,St Alban's,Hertfordshire,St Albans,21,2,,,
+http://data.ordnancesurvey.co.uk/id/4000000074573333,51.8823,0.0275,Standon,Hertfordshire,,27,,,,http://archaeologydataservice.ac.uk/catalogue/adsdata/arch-436-1/dissemination/pdf/standon.pdf
+http://data.ordnancesurvey.co.uk/id/4000000074542784,51.9113,-0.2082,Stevenage,Hertfordshire,,31,,,,http://archaeologydataservice.ac.uk/catalogue/adsdata/arch-436-1/dissemination/pdf/stevenage.pdf
+http://data.ordnancesurvey.co.uk/id/4000000074548120,51.7939,-0.6605,Tring,Hertfordshire,,32,,,,http://archaeologydataservice.ac.uk/catalogue/adsdata/arch-436-1/dissemination/pdf/tring.pdf
+http://data.ordnancesurvey.co.uk/id/4000000074573673,51.8113,-0.0323,Ware,Hertfordshire,,21,,,1,
+http://data.ordnancesurvey.co.uk/id/4000000074562546,51.6552,-0.39,Watford,Hertfordshire,,15,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074576593,52.3305,-0.1846,Huntingdon,Huntingdonshire,,57,2,,,
+http://data.ordnancesurvey.co.uk/id/4000000074577553,52.297,-0.3891,Kimbolton,Huntingdonshire,,64,,,,https://archaeologydataservice.ac.uk/catalogue/adsdata/arch-2880-1/dissemination/pdf/towns/Kimbolton_EUS_Report_2015.pdf
+http://data.ordnancesurvey.co.uk/id/4000000074576597,52.4483,-0.1063,Ramsey,Huntingdonshire,,68,,,,https://archaeologydataservice.ac.uk/catalogue/adsdata/arch-2880-1/dissemination/pdf/towns/Ramsey_EUS_Report_2015.pdf
+http://data.ordnancesurvey.co.uk/id/4000000074575454,52.38225,-0.002,Somersham,Huntingdonshire,,65,,,,https://archaeologydataservice.ac.uk/catalogue/adsdata/arch-2880-1/dissemination/pdf/towns/Somersham_EUS_Report_2015.pdf
+http://data.ordnancesurvey.co.uk/id/4000000074575165,52.227495,-0.270688,St Neots,Huntingdonshire,,56,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074576587,52.3233,-0.0731,St. Ives,Huntingdonshire,,59,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074543434,52.4895,-0.2891,Stilton,Huntingdonshire,,71,,,,https://archaeologydataservice.ac.uk/catalogue/adsdata/arch-2880-1/dissemination/pdf/towns/Stilton_EUS_Report_2015.pdf
+http://data.ordnancesurvey.co.uk/id/4000000074545913,51.0295,0.7895,Appledore,Kent,,63,,,,https://archaeologydataservice.ac.uk/catalogue/adsdata/arch-459-1/dissemination/pdf/Appledore.pdf
+http://data.ordnancesurvey.co.uk/id/4000000074564849,51.1492,0.8726,Ashford,Kent,,55,,,,https://archaeologydataservice.ac.uk/catalogue/adsdata/arch-459-1/dissemination/pdf/Ashford.pdf
+http://data.ordnancesurvey.co.uk/id/4000000074343899,51.4055,0.015,Bromley,Kent,,10,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074565139,51.2791,1.0811,Canterbury,Kent,,56,2,,,https://www.canterbury.gov.uk/download/downloads/id/671/canterbury_conservation_area_appraisal.pdf
+http://data.ordnancesurvey.co.uk/id/4000000074547835,51.3823,0.5259,Chatham,Kent,,30,,,,https://archaeologydataservice.ac.uk/catalogue/adsdata/arch-459-1/dissemination/pdf/Chatham.pdf
+http://data.ordnancesurvey.co.uk/id/4000000074545068,51.0967,0.5357,Cranbrook,Kent,,48,,,,https://archaeologydataservice.ac.uk/catalogue/adsdata/arch-459-1/dissemination/pdf/Cranbrook.pdf
+http://data.ordnancesurvey.co.uk/id/4000000074542785,51.4442,0.2186,Dartford,Kent,,15,,,,https://archaeologydataservice.ac.uk/catalogue/adsdata/arch-459-1/dissemination/pdf/Dartford.pdf
+http://data.ordnancesurvey.co.uk/id/4000000074564856,51.2248,1.4026,Deal,Kent,,74,,,1,
+http://data.ordnancesurvey.co.uk/id/4000000074568379,51.1251,1.3135,Dover,Kent,,71,2,,,
+http://data.ordnancesurvey.co.uk/id/4000000074568410,51.1527,1.1117,Elham,Kent,,65,,,,https://archaeologydataservice.ac.uk/catalogue/adsdata/arch-459-1/dissemination/pdf/Elham.pdf
+http://data.ordnancesurvey.co.uk/id/4000000074566824,51.3159,0.8912,Feversham,Kent,Faversham,47,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074566736,51.0801,1.1816,Folkstone,Kent,Folkestone,72,,,,https://archaeologydataservice.ac.uk/catalogue/adsdata/arch-459-1/dissemination/pdf/Folkestone.pdf
+http://data.ordnancesurvey.co.uk/id/4000000074544792,51.1136,0.4603,Goudhurst,Kent,,44,,,,https://archaeologydataservice.ac.uk/catalogue/adsdata/arch-459-1/dissemination/pdf/Goudhurst.pdf
+http://data.ordnancesurvey.co.uk/id/4000000074576371,51.4433,0.3705,Gravesend,Kent,,22,,,,https://archaeologydataservice.ac.uk/catalogue/adsdata/arch-459-1/dissemination/pdf/Gravesend.pdf
+http://data.ordnancesurvey.co.uk/id/4000000074568393,51.0708,1.0784,Hythe,Kent,,67,2,,,https://archaeologydataservice.ac.uk/catalogue/adsdata/arch-459-1/dissemination/pdf/Hythe.pdf
+http://data.ordnancesurvey.co.uk/id/4000000074547224,51.2372,0.7184,Lenham,Kent,,45,,,,https://archaeologydataservice.ac.uk/catalogue/adsdata/arch-459-1/dissemination/pdf/Lenham.pdf
+http://data.ordnancesurvey.co.uk/id/4000000074575804,51.2735,0.5223,Maidstone,Kent,,34,2,,,https://archaeologydataservice.ac.uk/catalogue/adsdata/arch-459-1/dissemination/pdf/Maidstone.pdf
+http://data.ordnancesurvey.co.uk/id/4000000074575807,51.2947,0.4088,Malling,Kent,West Malling,22,,,,https://archaeologydataservice.ac.uk/catalogue/adsdata/arch-459-1/dissemination/pdf/West_Malling.pdf
+http://data.ordnancesurvey.co.uk/id/4000000074544645,51.349,0.7324,Milton,Kent,Milton Regis,40,,,1,
+http://data.ordnancesurvey.co.uk/id/4000000074576082,51.3909,0.5028,Rochester,Kent,,30,2,,,https://archaeologydataservice.ac.uk/catalogue/adsdata/arch-459-1/dissemination/pdf/Rochester.pdf
+http://data.ordnancesurvey.co.uk/id/4000000074564827,50.9856,0.9394,Romney,Kent,New Romney,71,2,,,https://www.folkestone-hythe.gov.uk/media/1246/new-romney-part-1/pdf/new-romney-part-1.pdf
+http://data.ordnancesurvey.co.uk/id/4000000074567053,51.2753,1.3399,Sandwich,Kent,,67,2,,,https://archaeologydataservice.ac.uk/catalogue/adsdata/arch-459-1/dissemination/pdf/Sandwich.pdf
+http://data.ordnancesurvey.co.uk/id/4000000074575264,51.2696,0.1931,Sevenoaks,Kent,,23,,,,https://archaeologydataservice.ac.uk/catalogue/adsdata/arch-459-1/dissemination/pdf/Sevenoaks.pdf
+http://data.ordnancesurvey.co.uk/id/4000000074545920,51.1493,0.687,Smarden,Kent,,57,,,,https://archaeologydataservice.ac.uk/catalogue/adsdata/arch-459-1/dissemination/pdf/Smarden.pdf
+http://data.ordnancesurvey.co.uk/id/4000000074543685,51.0678,0.6857,Tenterden,Kent,,57,,,,https://archaeologydataservice.ac.uk/catalogue/adsdata/arch-459-1/dissemination/pdf/Tenterden.pdf
+http://data.ordnancesurvey.co.uk/id/4000000074547079,51.1262,0.2581,Tunbridge,Kent,Tunbridge Wells,30,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074563585,51.2671,0.071,Westerham,Kent,,22,,,,https://archaeologydataservice.ac.uk/catalogue/adsdata/arch-459-1/dissemination/pdf/Westerham.pdf
+http://data.ordnancesurvey.co.uk/id/4000000074576080,51.3086,0.3114,Wrotham,Kent,,25,,,,https://archaeologydataservice.ac.uk/catalogue/adsdata/arch-459-1/dissemination/pdf/Wrotham.pdf
+http://data.ordnancesurvey.co.uk/id/4000000074564853,51.1839,0.9376,Wye,Kent,,55,,,,https://archaeologydataservice.ac.uk/catalogue/adsdata/arch-459-1/dissemination/pdf/Wye.pdf
+http://data.ordnancesurvey.co.uk/id/4000000074574164,53.7493,-2.4835,Blackburn,Lancashire,,210,,,1,https://www.british-history.ac.uk/vch/lancs/vol6/pp244-249#p21
+http://data.ordnancesurvey.co.uk/id/4000000074550817,53.5797,-2.4269,Bolton,Lancashire,,197,,,,https://www.british-history.ac.uk/vch/lancs/vol5/pp243-251#p3
+http://data.ordnancesurvey.co.uk/id/4000000074551039,53.7902,-2.2439,Burnley,Lancashire,,211,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074567142,53.5936,-2.2978,Bury,Lancashire,,195,,1,,
+http://data.ordnancesurvey.co.uk/id/4000000074561426,54.2009,-2.9546,Cartmel,Lancashire,,253,,,,https://www.southlakeland.gov.uk/media/5869/cartmel-conservation-area-character-appraisal.pdf
+http://data.ordnancesurvey.co.uk/id/4000000074548184,53.6502,-2.6309,Chorley,Lancashire,,209,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074575249,53.8727,-2.3909,Clithero,Lancashire,Clitheroe,216,2,,,
+http://data.ordnancesurvey.co.uk/id/4000000074551347,53.8572,-2.1676,Colne,Lancashire,,217,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074560815,54.1556,-3.1863,Dalton,Lancashire,Dalton-in-Furness,267,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074578797,53.9001,-2.7744,Garstang,Lancashire,,228,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074568117,53.7067,-2.3252,Haslingden,Lancashire,,203,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074562610,54.374358,-2.998976,Hawkshead,Lancashire,,274,,,,https://www.british-history.ac.uk/vch/lancs/vol8/pp370-376#p14
+http://data.ordnancesurvey.co.uk/id/4000000074579493,53.7826,-2.8714,Kirkham,Lancashire,,226,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074562398,54.0488,-2.8013,Lancaster,Lancashire,,239,2,,,
+http://data.ordnancesurvey.co.uk/id/4000000074559629,53.4076,-2.992,Liverpool,Lancashire,,226,2,,,https://www.british-history.ac.uk/vch/lancs/vol4/pp4-36#p73
+http://data.ordnancesurvey.co.uk/id/4000000074567025,53.4837,-2.2443,Manchester,Lancashire,,186,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074567990,53.5507,-2.1968,Middleton,Lancashire,,193,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074558530,53.4564,-2.6157,Newton,Lancashire,Newton-le-Willows,193,2,,1,
+http://data.ordnancesurvey.co.uk/id/4000000074579847,53.5673,-2.886,Ormskirk,Lancashire,,210,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074579263,53.8466,-2.9925,Poulton,Lancashire,Poulton-le-Fylde,235,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074559924,53.4281,-2.8052,Prescot,Lancashire,,198,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074574696,53.759,-2.6991,Preston,Lancashire,,217,2,,,
+http://data.ordnancesurvey.co.uk/id/4000000074566708,53.6179,-2.1587,Rochdale,Lancashire,,195,,,,https://www.british-history.ac.uk/vch/lancs/vol5/pp187-201#p35
+http://data.ordnancesurvey.co.uk/id/4000000074562405,54.196,-3.0964,Ulverstone,Lancashire,Ulverston,261,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074549708,53.541,-2.7219,Up Holland,Lancashire,Upholland,205,,,1,
+http://data.ordnancesurvey.co.uk/id/4000000074558874,53.3895,-2.5943,Warrington,Lancashire,,185,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074548561,53.5462,-2.6319,Wigan,Lancashire,,200,2,,,https://www.wigan.gov.uk/Docs/PDF/Resident/Leisure/Museums-and-archives/archives/Market-Place-Wigan-1824.pdf
+http://data.ordnancesurvey.co.uk/id/4000000074553868,52.7476,-1.4696,Ashby-De-La-Zouch,Leicestershire,,115,,,,https://books.google.co.nz/books?id=q2W6BQAAQBAJ&printsec=frontcover
+http://data.ordnancesurvey.co.uk/id/4000000074560681,52.6184,-0.9393,Billsden,Leicestershire,Billesdon,94,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074573930,52.5608,-0.8391,Hallaton,Leicestershire,,91,,,1,
+http://data.ordnancesurvey.co.uk/id/4000000074573829,52.541,-1.3731,Hinckley,Leicestershire,,100,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074560267,52.6347,-1.1331,Leicester,Leicestershire,,99,2,0.75,,
+http://data.ordnancesurvey.co.uk/id/4000000074561895,52.7715,-1.2064,Loughborough,Leicestershire,,110,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074571943,52.4553,-1.1996,Lutterworth,Leicestershire,,90,,,1,
+http://data.ordnancesurvey.co.uk/id/4000000074548594,52.624,-1.4018,Market Bosworth,Leicestershire,,107,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074571939,52.4793,-0.9224,Market Harborough,Leicestershire,,84,,,,https://www.harborough.gov.uk/directory_record/1276/market_harborough_conservation_area
+http://data.ordnancesurvey.co.uk/id/4000000074561104,52.7644,-0.8865,Melton Mowbray,Leicestershire,,104,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074561316,52.73,-1.1399,Mountsorrel,Leicestershire,,105,,,,http://www.melton.gov.uk/download/downloads/id/792/waltham_on_the_woldspdf.pdf
+http://data.ordnancesurvey.co.uk/id/4000000074560259,52.8173,-0.811,Waltham on the Would,Leicestershire,Waltham on the Wolds,109,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074552089,53.2611,0.1798,Alford,Lincolnshire,,137,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074570311,53.6829,-0.4391,Barton on the Humber,Lincolnshire,Barton upon Humber,164,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074552870,52.9779,-0.024,Boston,Lincolnshire,,113,2,,,
+http://data.ordnancesurvey.co.uk/id/4000000074550233,52.7682,-0.3772,Bourn,Lincolnshire,Bourne,94,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074568933,53.552,-0.4928,Brigg,Lincolnshire,,152,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074810251,53.1622,0.2444,Burgh,Lincolnshire,Burgh Le Marsh,138,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074573429,53.4969,-0.3153,Castor,Lincolnshire,Caistor,157,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074573627,52.4907,-0.6833,Corby,Lincolnshire,,103,,,1,
+http://data.ordnancesurvey.co.uk/id/4000000074550953,52.6761,-0.1675,Crowland,Lincolnshire,,89,,,,https://www.heritagesouthholland.co.uk/2018/11/crowland-war-memorial/
+http://data.ordnancesurvey.co.uk/id/4000000074547948,53.6061,-0.8334,Crowle,Lincolnshire,,165,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074552539,52.9052,-0.2048,Donnington,Lincolnshire,Donington,117,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074546188,53.5249,-0.8201,Empworth,Lincolnshire,Epworth,136,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074553918,52.8895,-0.4079,Folkingham,Lincolnshire,,104,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074575425,53.3994,-0.7759,Gainsborough,Lincolnshire,,147,,1,,
+http://data.ordnancesurvey.co.uk/id/4000000074562081,52.9131,-0.6439,Grantham,Lincolnshire,,107,2,,,
+http://data.ordnancesurvey.co.uk/id/4000000074571038,53.5705,-0.0805,Grimsby,Lincolnshire,Great Grimsby,164,2,,,
+http://data.ordnancesurvey.co.uk/id/4000000074551680,52.8041,0.0138,Holbeach,Lincolnshire,,105,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074553679,53.2089,-0.1163,Horncastle,Lincolnshire,,134,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074574884,53.4764,-0.589,Kirton,Lincolnshire,Kirton in Lindsey,147,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074551786,53.230178,-0.539215,Lincoln,Lincolnshire,,129,2,1,,http://heritageconnectlincoln.com/lara-raz/former-high-market-of-the-lower-city---the-new-butter-market/561
+http://data.ordnancesurvey.co.uk/id/4000000074551795,53.3665,-0.0046,Louth,Lincolnshire,,148,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074551322,52.6752,-0.3168,Market Deeping,Lincolnshire,,86,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074554058,53.3878,-0.3377,Market Raisin,Lincolnshire,Market Rasen,151,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074575708,53.1084,-0.5252,Navenby,Lincolnshire,,119,,,,http://parishes.lincolnshire.gov.uk/Files/Parish/836/Navenby_Conservation_Area_Appraisal_2016_Adopted_Version.pdf
+http://data.ordnancesurvey.co.uk/id/4000000074552432,53.421882,0.186553,Saltfleet,Lincolnshire,,160,,,1,
+http://data.ordnancesurvey.co.uk/id/4000000074548798,52.9996,-0.4096,Sleaford,Lincolnshire,,111,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074549155,52.7868,-0.151,Spalding,Lincolnshire,,97,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074553986,53.1737,0.0977,Spilsby,Lincolnshire,,136,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074549904,53.3016,-0.1589,Stainton,Lincolnshire,Market Stainton,156,,,1,
+http://data.ordnancesurvey.co.uk/id/4000000074548775,52.6533,-0.4788,Stamford,Lincolnshire,,86,2,,,https://www.british-history.ac.uk/rchme/stamford/pp71-79
+http://data.ordnancesurvey.co.uk/id/4000000074552547,52.9453,-0.1592,Swineshead,Lincolnshire,,109,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074541364,53.1044,-0.1906,Tattershall,Lincolnshire,,125,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074551740,53.1068,0.2368,Wainfleet,Lincolnshire,Wainfleet All Saints,135,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074552115,53.287,-0.303,Wragby,Lincolnshire,,139,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074561689,51.4836,-0.3092,Brentford,Middlesex,,7,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074343645,51.6524,-0.0823,Enfield,Middlesex,,10,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074813508,51.518656,-0.103379,London,Middlesex,Smithfield,0,4,,,
+http://data.ordnancesurvey.co.uk/id/4000000074562074,51.5106,-0.3729,Southal,Middlesex,Southall,9,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074549978,51.4333,-0.5141,Staines,Middlesex,Staines-upon-Thames,16,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074565718,51.546198,-0.479524,Uxbridge,Middlesex,,15,,,,https://historicengland.org.uk/services-skills/education/educational-images/market-house-high-street-uxbridge-greater-london-11734
+http://data.ordnancesurvey.co.uk/id/4000000074571884,52.7951,1.2511,Alesham,Norfolk,Aylsham,121,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074545143,52.516386,1.014554,Attleborough,Norfolk,,94,,,1,
+http://data.ordnancesurvey.co.uk/id/4000000074573569,52.7705,1.164,Cawston,Norfolk,,112,,,1,
+http://data.ordnancesurvey.co.uk/id/4000000074573604,52.9313,1.3004,Cromer,Norfolk,,130,,,1,
+http://data.ordnancesurvey.co.uk/id/4000000074544335,52.3767,1.109,Diss,Norfolk,,90,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074550572,52.6028,0.3775,Downham,Norfolk,Downham Market,84,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074569494,52.6814,0.9406,East Dereham,Norfolk,Dereham,102,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074579548,52.4393,0.9322,East Harling,Norfolk,,93,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074549137,52.8301,0.8477,Fakenham,Norfolk,,108,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074573581,52.784,1.012,Foulsham,Norfolk,,111,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074571262,52.579541,0.985016,Hingham,Norfolk,,98,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074573609,52.906034,1.089819,Holt,Norfolk,,120,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074542983,52.756366,0.394463,King's Lynn,Norfolk,,97,2,,,
+http://data.ordnancesurvey.co.uk/id/4000000074545132,52.5353,1.4817,Loddon,Norfolk,,113,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074578969,52.5244,0.5532,Methwold,Norfolk,,84,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074544068,52.472319,1.073535,New Buckenham,Norfolk,,95,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074571602,52.8213,1.386,North Walsham,Norfolk,,124,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074573264,52.628547,1.292798,Norwich,Norfolk,,109,2,0.5,,
+http://data.ordnancesurvey.co.uk/id/4000000074571867,52.76264,1.111131,Reepham,Norfolk,,123,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074549133,52.6958,0.4198,Seeching,Norfolk,Setchy,94,,,1,
+http://data.ordnancesurvey.co.uk/id/4000000074549481,52.647423,0.68825,Swaffham,Norfolk,,93,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074579670,52.413234,0.750716,Thetford,Norfolk,,80,2,,,
+http://data.ordnancesurvey.co.uk/id/4000000074549477,52.571584,0.825706,Watton,Norfolk,,91,,,,https://www.wattontowncouncil.gov.uk/wp-content/uploads/2020/06/WATTON-CHARACTER-APPRAISAL-FINAL-26.06.18.pdf
+http://data.ordnancesurvey.co.uk/id/4000000074571595,52.782957,1.412763,Worsted,Norfolk,Worstead,123,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074573546,52.570147,1.113188,Wymondham,Norfolk,,100,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074571206,52.608853,1.726779,Yarmouth,Norfolk,Great Yarmouth,124,2,,,
+http://data.ordnancesurvey.co.uk/id/4000000074547435,52.0267,-1.1497,Brackley,Northamptonshire,,64,2,,,
+http://data.ordnancesurvey.co.uk/id/4000000074573619,52.258493,-1.160177,Daventry,Northamptonshire,,73,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074571184,52.3062,-0.5928,Higham Ferrers,Northamptonshire,,65,1,,,
+http://data.ordnancesurvey.co.uk/id/4000000074573917,52.397498,-0.727705,Kettering,Northamptonshire,,75,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074570837,52.2382,-0.8964,Northampton,Northamptonshire,,66,2,,,
+http://data.ordnancesurvey.co.uk/id/4000000074578032,52.480871,-0.467426,Oundle,Northamptonshire,,77,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074550599,52.572733,-0.243698,Peterborough,Northamptonshire,,77,2,,,
+http://data.ordnancesurvey.co.uk/id/4000000074569834,52.5165,-0.7246,Rockingham,Northamptonshire,,84,,,,https://www.corby.gov.uk/leisure-culture/leisure-community-facilities/corby-heritage-centre/history-corby/rockingham
+http://data.ordnancesurvey.co.uk/id/4000000074569830,52.422824,-0.800426,Rowell,Northamptonshire,Rothwell,78,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074571912,52.39708,-0.537888,Thrapstone,Northamptonshire,Thrapston,75,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074545502,52.132049,-0.988443,Towcester,Northamptonshire,,61,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074572206,52.4963,-0.634,Weldon,Northamptonshire,,84,,,,https://www.corby.gov.uk/sites/default/files/Weldon%20CAA%20ADOPTED%20%20%28APRIL%202009%29.pdf
+http://data.ordnancesurvey.co.uk/id/4000000074571862,52.3017,-0.6936,Wellingborough,Northamptonshire,,69,,1,,
+http://data.ordnancesurvey.co.uk/id/4000000074557744,55.4134,-1.7069,Alnwick,Northumberland,,311,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074559612,55.598743,-1.829162,Belford,Northumberland,,325,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074555529,55.769583,-2.003321,Berwick,Northumberland,Berwick upon Tweed,341,2,0.75,,https://www.northumberland.gov.uk/NorthumberlandCountyCouncil/media/Planning-and-Building/Conservation/Berwick-CACA.pdf
+http://data.ordnancesurvey.co.uk/id/4000000074548821,55.143575,-2.255028,Billingham,Northumberland,Bellingham,298,,,,https://www.northumberland.gov.uk/NorthumberlandCountyCouncil/media/Planning-and-Building/Conservation/Archaeology/Bellingham.pdf
+http://data.ordnancesurvey.co.uk/id/4000000074549210,55.233505,-2.100798,Elsdon,Northumberland,,305,,,1,
+http://data.ordnancesurvey.co.uk/id/4000000074552959,54.970449,-2.458569,Haltwhistle,Northumberland,,314,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074556053,55.336169,-2.105699,Harbottle,Northumberland,,315,,,1,
+http://data.ordnancesurvey.co.uk/id/4000000074549939,54.971525,-2.10132,Hexham,Northumberland,,283,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074571702,55.167642,-1.690288,Morpeth,Northumberland,,292,2,,,
+http://data.ordnancesurvey.co.uk/id/4000000074576165,54.971281,-1.614248,Newcastle,Northumberland,Newcastle upon Tyne,276,2,0.5,,
+http://data.ordnancesurvey.co.uk/id/4000000074557715,55.3481,-1.6119,Warkworth,Northumberland,,308,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074557912,55.545895,-2.014854,Wooler,Northumberland,,323,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074560492,52.952328,-0.951967,Bingham,Nottinghamshire,,124,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074575431,53.377966,-1.062345,Blyth,Nottinghamshire,,148,,,,https://www.bassetlaw.gov.uk/media/69289/CABlythAppraisal.pdf#page=71
+http://data.ordnancesurvey.co.uk/id/4000000074575136,53.14428,-1.196509,Mansfield,Nottinghamshire,,139,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074575990,53.076206,-0.809073,Newark,Nottinghamshire,Newark on Trent,121,2,,,
+http://data.ordnancesurvey.co.uk/id/4000000074563302,52.953432,-1.150096,Nottingham,Nottinghamshire,,125,2,,,
+http://data.ordnancesurvey.co.uk/id/4000000074574342,53.322768,-0.943098,Retford,Nottinghamshire,,140,2,,,
+http://data.ordnancesurvey.co.uk/id/4000000074577762,53.077953,-0.955363,Southwell,Nottinghamshire,,129,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074576279,53.231034,-0.898338,Tuxford,Nottinghamshire,,134,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074575727,53.3014,-1.124,Worksop,Nottinghamshire,,143,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074565280,51.726673,-1.545293,Bampton,Oxfordshire,,70,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074567614,52.062297,-1.335096,Banbury,Oxfordshire,,73,1,,,
+http://data.ordnancesurvey.co.uk/id/4000000074547139,51.896879,-1.150562,Bicester,Oxfordshire,,55,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074565293,51.807377,-1.636778,Burford,Oxfordshire,,73,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074568558,51.872418,-1.483103,Charlbury,Oxfordshire,,69,,,,http://www.british-history.ac.uk/vch/oxon/vol10/pp127-157#p11
+http://data.ordnancesurvey.co.uk/id/4000000074566269,51.941833,-1.545498,Chipping Norton,Oxfordshire,,74,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074565622,51.981483,-1.321575,Deddington,Oxfordshire,,70,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074568231,51.537433,-0.905959,Henley,Oxfordshire,Henley on Thames,35,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074563668,51.752752,-1.256539,Oxford,Oxfordshire,,54,2,,,"https://en.wikipedia.org/wiki/Covered_Market,_Oxford"
+http://data.ordnancesurvey.co.uk/id/4000000074548154,51.746909,-0.976912,Thame,Oxfordshire,,45,,,,"http://www.british-history.ac.uk/vch/oxon/vol7/pp178-193#p18, http://www.thamehistory.net/places/MarketHall.htm"
+http://data.ordnancesurvey.co.uk/id/4000000074552810,51.644969,-1.004556,Watlington,Oxfordshire,,46,,,,http://www.british-history.ac.uk/vch/oxon/vol8/pp210-252#p187
+http://data.ordnancesurvey.co.uk/id/4000000074565920,51.784318,-1.485333,Witney,Oxfordshire,,66,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074566918,51.847547,-1.35601,Woodstock,Oxfordshire,,63,2,,,
+http://data.ordnancesurvey.co.uk/id/4000000074562279,52.670358,-0.72815,Oakham,Rutlandshire,,96,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074572212,52.587826,-0.722191,Uppingham,Rutlandshire,,89,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074562394,52.494601,-2.997626,Bishop's Castle,Shropshire,,160,2,,,https://historicengland.org.uk/listing/the-list/list-entry/1054578
+http://data.ordnancesurvey.co.uk/id/4000000074572633,52.535664,-2.419735,Bridgenorth,Shropshire,Bridgnorth,139,2,,,https://shropshire.gov.uk/media/8774/bridgnorth-pdf.pdf#page=27
+http://data.ordnancesurvey.co.uk/id/4000000074561249,52.613106,-2.482451,Brosely,Shropshire,Broseley,146,,,1,http://www.british-history.ac.uk/vch/salop/vol10/pp257-293#p125
+http://data.ordnancesurvey.co.uk/id/4000000074568356,52.378571,-2.481618,Cleobury Mortimer,Shropshire,,137,,,1,
+http://data.ordnancesurvey.co.uk/id/4000000074559842,52.86099,-3.05462,Croesoswallt,Shropshire,Oswestry,180,,,,http://www.oswestry-tc.gov.uk/markets/our-markets.html
+http://data.ordnancesurvey.co.uk/id/4000000074558353,52.907291,-2.893704,Ellesmere,Shropshire,,176,,,,https://www.ellesmere.info/page/53/the-old-town-hall.htm
+http://data.ordnancesurvey.co.uk/id/4000000074566096,52.448297,-2.049508,Hales-Owen,Shropshire,Halesowen,125,,,,http://www.dudley.gov.uk/resident/planning/historic-environment/historic-landscape-characterisation-hlc/hales-hlc/
+http://data.ordnancesurvey.co.uk/id/4000000074570916,52.367436,-2.720472,Ludlow,Shropshire,,143,2,,,http://www.ludlowhistory.co.uk/
+http://data.ordnancesurvey.co.uk/id/4000000074561476,52.904268,-2.484531,Market Drayton,Shropshire,,160,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074560602,52.665672,-2.372822,Shifnal,Shropshire,,143,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074560208,52.7074,-2.75449,Shrewsbury,Shropshire,,156,2,,,http://www.oldmarkethall.co.uk/discover-more/history
+http://data.ordnancesurvey.co.uk/id/4000000074561416,52.53852,-2.80801,Stretton-church,Shropshire,Church Stretton,159,,,,https://doi.org/10.5284/1000325
+http://data.ordnancesurvey.co.uk/id/4000000074563031,52.701022,-2.518537,Wellington,Shropshire,,,,,,http://www.british-history.ac.uk/vch/salop/vol11/pp222-232#p33
+http://data.ordnancesurvey.co.uk/id/4000000074562248,52.855311,-2.726438,Wem,Shropshire,,175,,,,http://www.wemlocal.org.uk/wemmap/market.htm
+http://data.ordnancesurvey.co.uk/id/4000000074562630,52.595968,-2.557172,Wenlock,Shropshire,Much Wenlock,148,2,,,http://www.british-history.ac.uk/vch/salop/vol10/pp399-447#p26
+http://data.ordnancesurvey.co.uk/id/4000000074561875,52.969118,-2.683535,Whitchurch,Shropshire,,161,,,,https://historicengland.org.uk/listing/the-list/list-entry/1055982
+http://data.ordnancesurvey.co.uk/id/4000000074559746,51.287255,-2.817196,Axbridge,Somersetshire,,130,,,,https://www.somersetheritage.org.uk/downloads/eus/Somerset_EUS_Axbridge.pdf#page=9
+http://data.ordnancesurvey.co.uk/id/4000000074572822,51.38247,-2.358422,Bath,Somersetshire,,106,2,,,https://books.google.co.nz/books?id=X38_AQAAMAAJ&pg=PA223
+http://data.ordnancesurvey.co.uk/id/4000000074549289,51.112625,-2.453393,Brewton,Somersetshire,Bruton,110,,0.75,,http://www.british-history.ac.uk/vch/som/vol7/pp18-42#p85
+http://data.ordnancesurvey.co.uk/id/4000000074574252,51.128436,-3.003857,Bridgewater,Somersetshire,Bridgwater,139,2,0.75,,http://www.british-history.ac.uk/vch/som/vol6/pp213-223#p26
+http://data.ordnancesurvey.co.uk/id/4000000074573839,51.455898,-2.582526,Bristol,Somersetshire,,119,2,0.5,,https://www.bristol.gov.uk/documents/20182/33832/old-market-character-appraisal-red-2.pdf
+http://data.ordnancesurvey.co.uk/id/4000000074577404,50.872695,-2.965853,Chard,Somersetshire,,140,,0.75,,https://www.somersetheritage.org.uk/downloads/eus/Somerset_EUS_Chard.pdf#page=12
+http://data.ordnancesurvey.co.uk/id/4000000074575002,50.885018,-2.795575,Crewkerne,Somersetshire,,132,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074577882,51.123672,-3.231602,Crowcomb,Somersetshire,Crowcombe,148,,,,http://www.british-history.ac.uk/vch/som/vol5/pp54-64#p3
+http://data.ordnancesurvey.co.uk/id/4000000074577571,51.040147,-3.550648,Dulverton,Somersetshire,,166,,,,https://www.somersetheritage.org.uk/downloads/eus/Somerset_EUS_Dulverton.pdf#page=9
+http://data.ordnancesurvey.co.uk/id/4000000074574129,51.184593,-3.444365,Dunster,Somersetshire,,160,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074552653,51.231176,-2.321477,Frome,Somersetshire,,105,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074575333,51.147361,-2.718001,Glastonbury,Somersetshire,,136,,0.75,,
+http://data.ordnancesurvey.co.uk/id/4000000074575296,50.92675,-2.90999,Ilminster,Somersetshire,,134,,1,,https://www.somersetheritage.org.uk/downloads/eus/Somerset_EUS_Ilminster.pdf
+http://data.ordnancesurvey.co.uk/id/4000000074551138,51.001831,-2.682677,Ivelchester,Somersetshire,Ilchester,122,2,,,
+http://data.ordnancesurvey.co.uk/id/4000000074569763,51.417462,-2.499502,Keynsham,Somersetshire,,113,,,,http://www.bathnes.gov.uk/sites/default/files/sitedocuments/Planning-and-Building-Control/Planning-Policy/Placemaking-Plan/keynsham_conservation_area_appraisal.pdf
+http://data.ordnancesurvey.co.uk/id/4000000074576942,51.03724,-2.825919,Langport,Somersetshire,,130,,,,http://www.british-history.ac.uk/vch/som/vol3/pp16-38#p58
+http://data.ordnancesurvey.co.uk/id/4000000074577883,51.024818,-3.255266,Milverton,Somersetshire,,152,,0.75,,https://www.tauntondeane.gov.uk/media/1120/milverton-conservation-area-appraisal-sep-2007-v2_maps.pdf
+http://data.ordnancesurvey.co.uk/id/4000000074574396,51.205431,-3.479072,Minehead,Somersetshire,,162,2,,,https://www.victoriacountyhistory.ac.uk/explore/sites/explore/files/explore_assets/2014/06/16/minehead_market_and_fair.doc
+http://data.ordnancesurvey.co.uk/id/4000000074575603,51.022671,-2.971723,North Currey,Somersetshire,North Curry,139,,,,https://upload.wikimedia.org/wikipedia/commons/8/8c/North_Curry_-_ancient_manor_and_hundred_-_notes_on_the_history_of_the_three_parishes%2C_North_Curry%2C_Stoke_St._Gregory%2C_West_Hatch%2C_contained_therein_%28IA_northcurryancien00olivrich%29.pdf#p115
+http://data.ordnancesurvey.co.uk/id/4000000074574524,51.092571,-3.014932,North Petherton,Somersetshire,,129,,,,http://www.british-history.ac.uk/vch/som/vol6/pp278-282#p10
+http://data.ordnancesurvey.co.uk/id/4000000074571490,51.371556,-2.547579,Pensford,Somersetshire,,116,,,,http://www.bathnes.gov.uk/sites/default/files/pensford_ca_v3.pdf
+http://data.ordnancesurvey.co.uk/id/4000000074571466,51.30167,-2.325271,Philip's Norton,Somersetshire,Norton St Philip,104,,,,https://www.somersetheritage.org.uk/downloads/eus/Somerset_EUS_Norton_St_Philip.pdf
+http://data.ordnancesurvey.co.uk/id/4000000074575215,51.208631,-3.595897,Portlock,Somersetshire,Porlock,168,,,,http://www.exmoor-nationalpark.gov.uk/__data/assets/pdf_file/0006/386655/Porlock-Conservation-Area-Appraisal.pdf
+http://data.ordnancesurvey.co.uk/id/4000000074549667,51.190806,-2.546716,Shepton Mallet,Somersetshire,,115,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074576412,51.053912,-2.728182,Somerton,Somersetshire,,126,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074574222,50.948796,-2.809272,South Petherton,Somersetshire,,129,,0.75,,
+http://data.ordnancesurvey.co.uk/id/4000000074577672,51.151056,-3.156556,Stowey,Somersetshire,Nether Stowey,147,,,,http://www.british-history.ac.uk/vch/som/vol5/pp190-200#p7
+http://data.ordnancesurvey.co.uk/id/4000000074576144,51.014561,-3.102869,Taunton,Somersetshire,,145,2,0.5,,http://www.british-history.ac.uk/vch/som/vol5/pp190-200#p7
+http://data.ordnancesurvey.co.uk/id/4000000074576970,51.182627,-3.330589,Watchet,Somersetshire,,155,,,,http://watchetmuseum.co.uk/
+http://data.ordnancesurvey.co.uk/id/4000000074575591,50.978438,-3.227566,Wellington,Somersetshire,,152,,,,https://archive.org/stream/materialsforhist00hump/materialsforhist00hump_djvu.txt
+http://data.ordnancesurvey.co.uk/id/4000000074551521,51.2093,-2.64497,Wells,Somersetshire,,120,2,0.5,,
+http://data.ordnancesurvey.co.uk/id/4000000074553397,51.056177,-2.411091,Wincanton,Somersetshire,,112,,0.75,,
+http://data.ordnancesurvey.co.uk/id/4000000074577886,51.042273,-3.312616,Wiveliscombe,Somersetshire,,156,,1,,https://www.somersetheritage.org.uk/downloads/eus/Somerset_EUS_Wiveliscombe.pdf
+http://data.ordnancesurvey.co.uk/id/4000000074549750,52.818649,-1.882177,Abbot's Bromley,Staffordshire,Abbots Bromley,130,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074561865,53.0338,-2.36831,Betley,Staffordshire,,157,,,,https://www.staffordshire.gov.uk/Environment/Environment-and-Countryside/HistoricEnvironment/Documents/Betley-EUS-Report-Final.pdf
+http://data.ordnancesurvey.co.uk/id/4000000074563016,52.676697,-2.173773,Breewood,Staffordshire,Brewood,130,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074552364,52.801469,-1.629987,Burton on Trent,Staffordshire,Burton upon Trent,124,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074560862,52.987148,-1.989806,Cheadle,Staffordshire,,146,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074560637,52.859786,-2.251453,Eccleshall,Staffordshire,,149,,,,https://www.staffordshire.gov.uk/Environment/Environment-and-Countryside/HistoricEnvironment/Documents/Eccleshall-EUS-Draft-Report.pdf
+http://data.ordnancesurvey.co.uk/id/4000000074578075,53.106375,-2.025429,Leek,Staffordshire,,155,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074549374,52.683753,-1.827474,Litchfield,Staffordshire,Lichfield,119,2,,,http://www.british-history.ac.uk/vch/staffs/vol14/pp109-131#p39
+http://data.ordnancesurvey.co.uk/id/4000000074545430,53.181379,-1.868675,Longnor,Staffordshire,,162,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074577594,53.010929,-2.227141,Newcastle under Line,Staffordshire,Newcastle-under-Lyme,150,2,,,https://www.staffordshire.gov.uk/Environment/Environment-and-Countryside/HistoricEnvironment/Documents/NewcastleEUSReportFinal.pdf
+http://data.ordnancesurvey.co.uk/id/4000000074561026,52.72473,-2.11257,Penkridge,Staffordshire,,129,,,,https://www.staffordshire.gov.uk/Environment/Environment-and-Countryside/HistoricEnvironment/Documents/Penkridge-EUS-Report-Final.pdf
+http://data.ordnancesurvey.co.uk/id/4000000074550869,52.76067,-1.935311,Rudgley,Staffordshire,Rugeley,127,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074560217,52.807292,-2.117279,Stafford,Staffordshire,,142,2,,,
+http://data.ordnancesurvey.co.uk/id/4000000074560221,52.902372,-2.147419,Stone,Staffordshire,,141,,,,https://www.staffordshire.gov.uk/Environment/Environment-and-Countryside/HistoricEnvironment/Documents/StoneEUSReportFinal.pdf
+http://data.ordnancesurvey.co.uk/id/4000000074551591,52.633067,-1.695312,Tamworth,Staffordshire,,117,2,0.75,,https://www.staffordshire.gov.uk/Environment/Environment-and-Countryside/HistoricEnvironment/Documents/Tamworth-EUS-Report-Final.pdf
+http://data.ordnancesurvey.co.uk/id/4000000074552001,52.856892,-1.686311,Tutbury,Staffordshire,,128,,,,https://www.staffordshire.gov.uk/Environment/Environment-and-Countryside/HistoricEnvironment/Documents/Tutbury-EUS-Report-Final.pdf
+http://data.ordnancesurvey.co.uk/id/4000000074549395,52.898173,-1.864328,Uttoxeter,Staffordshire,,137,,0.75,,
+http://data.ordnancesurvey.co.uk/id/4000000074560826,52.58312,-1.97905,Walsall,Staffordshire,,117,,,,http://www.british-history.ac.uk/vch/staffs/vol17/pp180-208#p38
+http://data.ordnancesurvey.co.uk/id/4000000074566415,52.55241,-2.01863,Wednesbury,Staffordshire,,125,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074561827,52.585926,-2.1281,Wolverhampton,Staffordshire,,124,,,,http://www.wolverhampton.gov.uk/CHttpHandler.ashx?id=10272&p=0
+http://data.ordnancesurvey.co.uk/id/4000000074546808,52.154833,1.602748,Aldborough,Suffolk,Aldeburgh,94,2,,,http://www.eastsuffolk.gov.uk/assets/Planning/Design-and-Conservation/SCDC-Conservation-Area-Appraisals/AldeburghCAASPDDec2013.pdf
+http://data.ordnancesurvey.co.uk/id/4000000074545959,52.457924,1.56263,Beccles,Suffolk,,109,,,,http://www.eastsuffolk.gov.uk/assets/Planning/Design-and-Conservation/WDC-Conservation-Area-Appraisals/Beccles/Beccles-Conservation-Area-Character-Appraisal.pdf
+http://data.ordnancesurvey.co.uk/id/4000000074557045,52.107714,0.908275,Bildestone,Suffolk,Bildeston,67,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074544596,52.342546,1.004633,Botesdale,Suffolk,,86,1,,,https://www.midsuffolk.gov.uk/assets/Conservation-Area-Appraisals/Botesdale2011CAA.pdf
+http://data.ordnancesurvey.co.uk/id/4000000074544586,52.45627,1.43732,Bungay,Suffolk,,107,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074578838,52.245269,0.722916,Bury St Edmonds,Suffolk,Bury St Edmunds,71,,,,https://www.westsuffolk.gov.uk/planning/Conservation/upload/ConservationAreaAppraisalBury080320.pdf
+http://data.ordnancesurvey.co.uk/id/4000000074557055,52.078436,0.58137,Clare,Suffolk,,56,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074544034,52.225945,1.180805,Debenham,Suffolk,,83,,,,http://debenhamnp.onesuffolk.net/assets/documents/Debenham-CAA-2009-copy.pdf
+http://data.ordnancesurvey.co.uk/id/4000000074544280,52.277553,1.630835,Dunwich,Suffolk,,100,2,,,http://www.eastsuffolk.gov.uk/assets/Planning/Design-and-Conservation/SCDC-Conservation-Area-Appraisals/DunwichCAASPDDec2013.pdf
+http://data.ordnancesurvey.co.uk/id/4000000074545113,52.32105,1.14604,Eye,Suffolk,,90,2,,,https://www.google.co.nz/books/edition/East_Anglian_Or_Notes_and_Queries_on_Sub/08RCAAAAYAAJ?hl=en&gbpv=1&dq=&pg=PA75&printsec=frontcover
+http://data.ordnancesurvey.co.uk/id/4000000074544014,52.221794,1.343541,Framlingham,Suffolk,,88,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074545390,52.342772,1.500897,Halesworth,Suffolk,,101,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074559285,52.082587,0.438724,Haverhill,Suffolk,,58,,,,https://www.westsuffolk.gov.uk/planning/Conservation/upload/ConservationAreaAppraisalHaverhillQueenStreet090320.pdf
+http://data.ordnancesurvey.co.uk/id/4000000074547095,52.0579,1.15285,Ipswich,Suffolk,,69,2,,,http://www.ipswichsociety.org.uk/newsletter/newsletter-july-2016-issue-204/the-cornhill-in-history/
+http://data.ordnancesurvey.co.uk/id/4000000074579076,52.297936,0.83215,Ixworth,Suffolk,,77,,,,http://www.ixworthvillage.co.uk/2016/06/11/ixworth-in-1625/
+http://data.ordnancesurvey.co.uk/id/4000000074558943,52.109107,0.796616,Lavenham,Suffolk,,61,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074546520,52.480348,1.755517,Lowestoft,Suffolk,,114,,,,http://www.eastsuffolk.gov.uk/assets/Planning/Design-and-Conservation/WDC-Conservation-Area-Appraisals/North-Lowestoft/North-Lowestoft-Conservation-Area-Character-Appraisal.pdf
+http://data.ordnancesurvey.co.uk/id/4000000074559569,52.085942,0.721044,Melford Long,Suffolk,Long Melford,58,,,,https://heritage.suffolk.gov.uk/media/pdfs/long_melford.pdf
+http://data.ordnancesurvey.co.uk/id/4000000074545384,52.250329,1.080368,Mendlesham,Suffolk,,80,,,,https://mendlesham-pc.gov.uk/assets/Neighbourhood-Plan/July-2021/Supporting-files/Documents/SD22-Mendlesham-Conservation-Area-Appraisal.pdf
+http://data.ordnancesurvey.co.uk/id/4000000074578964,52.343354,0.509858,Mildenhall,Suffolk,,70,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074558918,51.971358,0.873913,Nayland,Suffolk,,57,,,,https://www.midsuffolk.gov.uk/assets/Conservation-Area-Appraisals/Nayland2005CAA.pdf
+http://data.ordnancesurvey.co.uk/id/4000000074544028,52.15523,1.05062,Needham,Suffolk,Needham Market,74,,,,https://heritage.suffolk.gov.uk/Monument/MSF23966
+http://data.ordnancesurvey.co.uk/id/4000000074578845,52.244586,0.404967,Newmarket,Suffolk,,61,,,,https://www.westsuffolk.gov.uk/planning/Conservation/upload/Newmarkt-conservation-area-appraisal-2009-complete.pdf
+http://data.ordnancesurvey.co.uk/id/4000000074546809,52.094694,1.533573,Orford,Suffolk,,82,2,,,
+http://data.ordnancesurvey.co.uk/id/4000000074544004,52.215373,1.492151,Saxmundham,Suffolk,,90,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074545660,52.32603,1.679414,Southwould,Suffolk,Southwold,106,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074545103,52.187768,0.995372,Stowmarket,Suffolk,,73,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074559256,52.038479,0.730529,Sudbury,Suffolk,,56,2,,,
+http://data.ordnancesurvey.co.uk/id/4000000074544533,52.093956,1.314081,Woodbridge,Suffolk,,77,,,,http://www.eastsuffolk.gov.uk/assets/Planning/Design-and-Conservation/SCDC-Conservation-Area-Appraisals/WoodbridgeConAreaAppraisalSPDJuly2011.pdf
+http://data.ordnancesurvey.co.uk/id/4000000074548475,51.39216,-0.503569,Chertsey,Surrey,,20,,,,http://chertseymuseum.org/chertsey
+http://data.ordnancesurvey.co.uk/id/4000000074575690,51.373226,-0.100942,Croydon,Surrey,,10,,,,https://en.wikipedia.org/wiki/Surrey_Street_Market
+http://data.ordnancesurvey.co.uk/id/4000000074571784,51.232566,-0.330425,Dorking,Surrey,,24,,,,http://archaeologydataservice.ac.uk/archiveDS/archiveDownload?t=arch-726-1/dissemination/pdf/dorking/dorking_eus_report.pdf
+http://data.ordnancesurvey.co.uk/id/4000000074550732,51.349586,-0.249362,Ewell,Surrey,,13,,,,http://www.british-history.ac.uk/vch/surrey/vol3/pp278-284#p4
+http://data.ordnancesurvey.co.uk/id/4000000074560932,51.214966,-0.798953,Farnham,Surrey,,38,,,,http://archaeologydataservice.ac.uk/archiveDS/archiveDownload?t=arch-726-1/dissemination/pdf/farnham/farnham_eus_report.pdf
+http://data.ordnancesurvey.co.uk/id/4000000074562117,51.185461,-0.615505,Godalming,Surrey,,34,,,,http://archaeologydataservice.ac.uk/archiveDS/archiveDownload?t=arch-726-1/dissemination/pdf/godalming/godalming_eus_report.pdf
+http://data.ordnancesurvey.co.uk/id/4000000074568981,51.235801,-0.57218,Guildford,Surrey,,30,2,,,http://archaeologydataservice.ac.uk/archiveDS/archiveDownload?t=arch-726-1/dissemination/pdf/guildford/guildford_eus_report.pdf
+http://data.ordnancesurvey.co.uk/id/4000000074563253,51.087664,-0.709412,Haslemere,Surrey,,44,2,,,http://archaeologydataservice.ac.uk/archiveDS/archiveDownload?t=arch-726-1/dissemination/pdf/haslemere/haslemere_eus_report.pdf
+http://data.ordnancesurvey.co.uk/id/4000000074552610,51.409601,-0.306227,Kingston,Surrey,Kingston-upon-Thames,10,,,,http://www.british-history.ac.uk/london-environs/vol1/pp212-256#p57
+http://data.ordnancesurvey.co.uk/id/4000000074567244,51.237638,-0.205812,Ryegate,Surrey,Reigate,21,2,,,
+http://data.ordnancesurvey.co.uk/id/4000000074549615,51.302498,-0.537832,Woking,Surrey,Old Woking,27,,,,http://www.woking2027.info/supplementary/oldwokingca.pdf
+http://data.ordnancesurvey.co.uk/id/4000000074568619,50.854292,-0.553731,Arundel,Sussex,,57,2,,,https://www.westsussex.gov.uk/media/1715/arundel_eus_report_and_maps.pdf
+http://data.ordnancesurvey.co.uk/id/4000000074544488,50.91727,0.483998,Battle,Sussex,,56,,,,https://www.westsussex.gov.uk/media/1715/arundel_eus_report_and_maps.pdf
+http://data.ordnancesurvey.co.uk/id/4000000074813723,50.820632,-0.140692,Brighthelmstone,Sussex,Brighton,58,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074562679,50.836501,-0.779163,Chichester,Sussex,,63,2,,,http://www.thenovium.org/article/28828/Chichester-Butter-Market
+http://data.ordnancesurvey.co.uk/id/4000000074571411,51.005794,-0.142962,Cuckfield,Sussex,,40,,,,https://www.westsussex.gov.uk/media/1723/cuckfield_eus_report_and_maps.pdf
+http://data.ordnancesurvey.co.uk/id/4000000074570713,51.123857,-0.0068,East Grinstead,Sussex,,29,2,,,https://www.westsussex.gov.uk/media/1725/east_grinstead_eus_report_and_maps.pdf
+http://data.ordnancesurvey.co.uk/id/4000000074558013,50.772585,0.266746,East-bourn,Sussex,Eastbourne,60,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074545044,50.857384,0.591568,Hastings,Sussex,,64,2,,,https://www.westsussex.gov.uk/media/1728/hastings_eus_report_maps.pdf
+http://data.ordnancesurvey.co.uk/id/4000000074545051,50.8624,0.260205,Haylsham,Sussex,Hailsham,58,,,,https://www.westsussex.gov.uk/media/1727/hailsham_eus_report_maps.pdf
+http://data.ordnancesurvey.co.uk/id/4000000074568626,51.061936,-0.328367,Horsham,Sussex,,37,2,,,
+http://data.ordnancesurvey.co.uk/id/4000000074569309,50.873632,0.011215,Lewes,Sussex,,50,2,,,https://www.westsussex.gov.uk/media/2106/lewes_eus_report_maps.pdf
+http://data.ordnancesurvey.co.uk/id/4000000074562691,50.985644,-0.737407,Midhurst,Sussex,,51,2,,,
+http://data.ordnancesurvey.co.uk/id/4000000074562688,50.986381,-0.610111,Petworth,Sussex,,50,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074543670,50.950461,0.734228,Rye,Sussex,,64,,,,https://www.westsussex.gov.uk/media/1744/rye_eus_report_maps.pdf
+http://data.ordnancesurvey.co.uk/id/4000000074573786,50.771,0.10504,Seaford,Sussex,,63,2,,,https://www.seafordtowncouncil.gov.uk/wp-content/uploads/2019/09/Crouch-Gardens-leaflet.pdf
+http://data.ordnancesurvey.co.uk/id/4000000074571765,50.83182,-0.27606,Shoreham,Sussex,Shoreham-by-Sea,56,2,,,https://www.westsussex.gov.uk/media/2112/shoreham_eus_report_and_maps.pdf
+http://data.ordnancesurvey.co.uk/id/4000000074573115,50.889042,-0.329928,Steyning,Sussex,,51,2,,,https://www.westsussex.gov.uk/media/1747/steyning_eus_report_and_maps.pdf
+http://data.ordnancesurvey.co.uk/id/4000000074569996,50.917905,-0.453879,Storrington,Sussex,,52,,,,https://www.westsussex.gov.uk/media/1748/storrington_eus_report_and_maps.pdf
+http://data.ordnancesurvey.co.uk/id/4000000074543667,50.921914,0.707988,Winchelsea,Sussex,,67,2,,,http://www.winchelsea.com/the-town-story/history/maps/
+http://data.ordnancesurvey.co.uk/id/4000000074545167,52.21572,-1.868541,Alcester,Warwickshire,,103,,,,https://www.stratford.gov.uk/doc/206112/name/Alcester
+http://data.ordnancesurvey.co.uk/id/4000000074568675,52.57814,-1.546471,Atherstone,Warwickshire,,108,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074540884,52.47792,-1.89456,Birmingham,Warwickshire,,110,,,,https://books.google.co.nz/books?id=eF8JAAAAIAAJ&pg=PA63
+http://data.ordnancesurvey.co.uk/id/4000000074577522,52.499112,-1.706453,Coleshill,Warwickshire,,104,,,,https://www.ourwarwickshire.org.uk/content/catalogue_her/site-of-market-at-coleshill
+http://data.ordnancesurvey.co.uk/id/4000000074568994,52.408416,-1.510762,Coventry,Warwickshire,,92,2,0.5,,
+http://data.ordnancesurvey.co.uk/id/4000000074547405,52.2929,-1.7799,"Henley, in Arden",Warwickshire,Henley-in-Arden,102,,,,http://www.british-history.ac.uk/vch/warks/vol3/pp206-212
+http://data.ordnancesurvey.co.uk/id/4000000074555135,52.157907,-1.510046,Kington,Warwickshire,Kineton,85,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074568651,52.522853,-1.467514,Nuneaton,Warwickshire,,105,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074569820,52.372186,-1.262678,Rugby,Warwickshire,,85,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074554782,52.252538,-1.388325,Southam,Warwickshire,,83,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074546824,52.19257,-1.70645,Stratford-upon-Avon,Warwickshire,,94,,,,http://www.british-history.ac.uk/vch/warks/vol3/pp234-244#p13
+http://data.ordnancesurvey.co.uk/id/4000000074540887,52.565111,-1.822274,Sutton,Warwickshire,Sutton Coldfield,111,,,,https://suttoncoldfieldlocal.co.uk/wp-content/uploads/2012/08/sutton-ca-draft-final-version.pdf
+http://data.ordnancesurvey.co.uk/id/4000000074555874,52.282221,-1.590581,Warwick,Warwickshire,,93,2,,,
+http://data.ordnancesurvey.co.uk/id/4000000074547827,54.43175,-2.96219,Ambleside,Westmoreland,,275,,,,http://www.amblesideonline.co.uk/assets/img/conservationdiscussiondoc.pdf
+http://data.ordnancesurvey.co.uk/id/4000000074546297,54.577469,-2.491189,Appleby,Westmoreland,Appleby-in-Westmorland,270,2,,,https://www.cumbriacountyhistory.org.uk/township/appleby
+http://data.ordnancesurvey.co.uk/id/4000000074548004,54.526451,-2.318167,Brough,Westmoreland,,262,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074568278,54.328504,-2.746365,Kendal,Westmoreland,,263,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074565651,54.20187,-2.59674,Kirby Lonsdale,Westmoreland,,251,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074546093,54.468098,-2.584343,Orton,Westmoreland,,279,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074546281,54.4734,-2.34856,,Westmoreland,,265,,0.75,,Kirkby Stephen
+http://data.ordnancesurvey.co.uk/id/4000000074564417,51.172226,-1.781646,Ambresoury,Wiltshire,Amesbury,78,,,,http://www.british-history.ac.uk/vch/wilts/vol15/pp13-55#p32
+http://data.ordnancesurvey.co.uk/id/4000000074572144,51.347818,-2.250627,Bradford,Wiltshire,Bradford-on-Avon,98,,1,,http://www.british-history.ac.uk/vch/wilts/vol7/pp4-51#p239
+http://data.ordnancesurvey.co.uk/id/4000000074570777,51.437933,-2.005086,Calne,Wiltshire,,87,2,0.5,,http://archaeologydataservice.ac.uk/archiveDS/archiveDownload?t=arch-906-1/dissemination/pdf/EUS_Texts/Calne.pdf
+http://data.ordnancesurvey.co.uk/id/4000000074578966,51.45772,-2.1142,Chippenham,Wiltshire,,94,2,,,
+http://data.ordnancesurvey.co.uk/id/4000000074564595,51.641231,-1.856245,Cricklade,Wiltshire,,83,2,,,http://archaeologydataservice.ac.uk/archiveDS/archiveDownload?t=arch-906-1/dissemination/pdf/EUS_Texts/Cricklade.pdf
+http://data.ordnancesurvey.co.uk/id/4000000074569406,51.352504,-1.995583,Devizes,Wiltshire,,88,2,,,Devizes
+http://data.ordnancesurvey.co.uk/id/4000000074567847,51.630742,-1.709736,Highworth,Wiltshire,,77,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074552646,51.095019,-2.129408,Hindon,Wiltshire,,96,2,,,http://archaeologydataservice.ac.uk/archiveDS/archiveDownload?t=arch-906-1/dissemination/pdf/EUS_Texts/Hindon.pdf
+http://data.ordnancesurvey.co.uk/id/4000000074569107,51.583868,-2.098057,Malmsbury,Wiltshire,Malmesbury,95,,0.5,,
+http://data.ordnancesurvey.co.uk/id/4000000074565851,51.421302,-1.730166,Marlborough,Wiltshire,,75,2,0.75,,http://archaeologydataservice.ac.uk/archiveDS/archiveDownload?t=arch-906-1/dissemination/pdf/EUS_Texts/Marlborough.pdf
+http://data.ordnancesurvey.co.uk/id/4000000074548514,51.090194,-2.269223,Mere,Wiltshire,,104,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074543263,51.069254,-1.795295,Salisbury,Wiltshire,,82,2,1,,
+http://data.ordnancesurvey.co.uk/id/4000000074566189,51.55152,-1.773385,Swindon,Wiltshire,,83,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074571813,51.320296,-2.207051,Trowbridge,Wiltshire,,98,,1,,http://archaeologydataservice.ac.uk/archiveDS/archiveDownload?t=arch-906-1/dissemination/pdf/EUS_Texts/Trowbridge.pdf
+http://data.ordnancesurvey.co.uk/id/4000000074551144,51.204889,-2.181194,Warminster,Wiltshire,,97,,0.5,,http://archaeologydataservice.ac.uk/archiveDS/archiveDownload?t=arch-906-1/dissemination/pdf/EUS_Texts/Warminster.pdf
+http://data.ordnancesurvey.co.uk/id/4000000074568718,51.26276,-2.182331,Westbury,Wiltshire,,101,2,,,
+http://data.ordnancesurvey.co.uk/id/4000000074563437,51.080059,-1.862977,Wilton,Wiltshire,,86,2,,,
+http://data.ordnancesurvey.co.uk/id/4000000074566185,51.5418,-1.90467,Wotton Basset,Wiltshire,Royal Wootton Basset,87,2,,,http://archaeologydataservice.ac.uk/archiveDS/archiveDownload?t=arch-906-1/dissemination/pdf/EUS_Texts/Wootton_Bassett.pdf
+http://data.ordnancesurvey.co.uk/id/4000000074565764,52.375583,-2.315656,Bewdley,Worcestershire,,129,1,,,http://www.worcestershire.gov.uk/downloads/file/6067/bewdley_and_wribbenhall
+http://data.ordnancesurvey.co.uk/id/4000000074567163,52.333707,-2.062195,Bromsgrove,Worcestershire,,116,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074567695,52.268552,-2.148556,Droitwich,Worcestershire,Droitwich Spa,118,2,,,https://www.wychavon.gov.uk/documents/10586/157693/Planning-HER-DroitwichCArevisedSept13.pdf
+http://data.ordnancesurvey.co.uk/id/4000000074567788,52.510631,-2.081973,Dudley,Worcestershire,,127,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074565636,52.092194,-1.947242,Evesham,Worcestershire,,96,2,,,
+http://data.ordnancesurvey.co.uk/id/4000000074568044,52.38799,-2.248505,Kidderminster,Worcestershire,,126,,0.5,,http://www.british-history.ac.uk/vch/worcs/vol3/pp158-173#p28
+http://data.ordnancesurvey.co.uk/id/4000000074578296,52.109738,-2.075221,Pershore,Worcestershire,,102,,,,https://www.wychavon.gov.uk/documents/10586/157693/wdc-planning-her-pershoreca-part2.pdf
+http://data.ordnancesurvey.co.uk/id/4000000074564678,52.063236,-1.624861,Shipton,Worcestershire,Shipston-on-Stour,84,,,,https://www.stratford.gov.uk/doc/206088/name/Shipston%20on%20Stour.pdf
+http://data.ordnancesurvey.co.uk/id/4000000074568039,52.457666,-2.147309,Stourbridge,Worcestershire,,125,,,,http://www.dudley.gov.uk/EasysiteWeb/getresource.axd?AssetID=5786&type=full&servicetype=Attachment
+http://data.ordnancesurvey.co.uk/id/4000000074567995,52.339286,-2.280637,Stourport,Worcestershire,Stourport-on-Severn,122,,,,https://content.historicengland.org.uk/images-books/publications/stourport-on-severn/stourport-on-severn.pdf/
+http://data.ordnancesurvey.co.uk/id/4000000074565801,52.310642,-2.595459,Tenbury,Worcestershire,Tenbury Wells,134,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074578761,52.063312,-2.217532,Upton,Worcestershire,Upton-on-Severn,109,,,,https://www.malvernhills.gov.uk/documents/10558/125552/mhc-planning-dpc-uptonfinalapril08.pdf/04a6c264-3704-4198-b9f3-a1ba57ecb362
+http://data.ordnancesurvey.co.uk/id/4000000074565458,52.191023,-2.220398,Worcester,Worcestershire,,111,2,0.5,,https://books.google.co.nz/books?id=_bIHAAAAQAAJ&pg=PA351
+http://data.ordnancesurvey.co.uk/id/4000000074572335,53.754011,-1.654685,Adwalton,Yorkshire,Drighlington,191,,,,https://www.google.co.nz/books/edition/Illustrated_rambles_from_Hipperholme_to/hf4wAQAAMAAJ?hl=en&gbpv=1&pg=PA301&printsec=frontcover
+http://data.ordnancesurvey.co.uk/id/4000000074564039,54.314852,-2.081379,Askrigg,Yorkshire,,247,,1,,
+http://data.ordnancesurvey.co.uk/id/4000000074572881,53.553189,-1.481543,Barnsley,Yorkshire,,177,,0.5,,http://sytimescapes.org.uk/zones/barnsley/B10
+http://data.ordnancesurvey.co.uk/id/4000000074577775,53.429085,-1.021254,Bawtry,Yorkshire,,152,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074545809,54.289481,-1.592998,Bedale,Yorkshire,,223,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074573778,53.843343,-0.432857,Beverley,Yorkshire,,180,2,,,
+http://data.ordnancesurvey.co.uk/id/4000000074571325,53.849379,-1.839069,Bingley,Yorkshire,,207,,,,https://www.bradford.gov.uk/media/2335/bingleyconservationareaassessment.pdf
+http://data.ordnancesurvey.co.uk/id/4000000074547704,54.095526,-1.394466,Boroughbridge,Yorkshire,,206,2,,,
+http://data.ordnancesurvey.co.uk/id/4000000074540943,53.794301,-1.751943,Bradford,Yorkshire,,201,,,,https://www.bradford.gov.uk/media/2351/citycentreconservationareaassessment.pdf
+http://data.ordnancesurvey.co.uk/id/4000000074570691,54.094303,-0.209881,Bridlington,Yorkshire,,206,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074544750,53.832859,-1.129927,Cawood,Yorkshire,,185,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074574343,53.524565,-1.132821,Doncaster,Yorkshire,,160,,0.75,,
+http://data.ordnancesurvey.co.uk/id/4000000074554503,54.121644,-1.192046,Easingwould,Yorkshire,Easingwold,210,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074577394,54.535929,-1.051053,Gisborough,Yorkshire,Guisborough,246,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074564363,54.072112,-1.997611,Grassington,Yorkshire,,228,,,,https://www.google.co.nz/books/edition/Upper_Wharfedale/D8gvAAAAMAAJ?hl=en&gbpv=1&dq=market%20square%20grassington&pg=PA446&printsec=frontcover
+http://data.ordnancesurvey.co.uk/id/4000000074570610,53.722344,-1.85934,Halifax,Yorkshire,,196,,0.75,,"https://en.wikipedia.org/wiki/Borough_Market,_Halifax"
+http://data.ordnancesurvey.co.uk/id/4000000074571745,53.741105,-0.198687,Headon,Yorkshire,Hedon,179,2,,,https://hedonblog.files.wordpress.com/2010/11/hedon-conservation-appraisal.pdf
+http://data.ordnancesurvey.co.uk/id/4000000074558992,54.246313,-1.061626,Helmsley Blackmoor,Yorkshire,Helmsley,218,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074573101,53.910587,-0.17364,Hornsea,Yorkshire,,193,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074544186,53.745415,-0.866121,Howden,Yorkshire,,176,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074571305,53.646587,-1.78221,Huddersfield,Yorkshire,,188,,0.5,,
+http://data.ordnancesurvey.co.uk/id/4000000074542156,53.740772,-0.333735,Hull,Yorkshire,Kingston upon Hull,173,2,1,,http://www.british-history.ac.uk/vch/yorks/east/vol1/pp407-412#p3
+http://data.ordnancesurvey.co.uk/id/4000000074573045,53.865622,-1.90874,Keighley,Yorkshire,,211,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074558232,54.269617,-0.931334,Kirkby-moor-side,Yorkshire,Kirkbymoorside,222,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074547241,54.007903,-1.466818,Knarsborough,Yorkshire,Knaresborough,202,2,1,,
+http://data.ordnancesurvey.co.uk/id/4000000074572682,53.797163,-1.538925,Leeds,Yorkshire,,174,,0.5,,https://www.on-magazine.co.uk/yorkshire/history/kirkgate-market-leeds/
+http://data.ordnancesurvey.co.uk/id/4000000074554871,54.135587,-0.798455,Malton,Yorkshire,,213,2,,,
+http://data.ordnancesurvey.co.uk/id/4000000074547760,54.221593,-1.655868,Masham,Yorkshire,,224,,1,,
+http://data.ordnancesurvey.co.uk/id/4000000074544368,54.285295,-1.805726,Middleham,Yorkshire,,232,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074546038,54.339734,-1.434152,Northallerton,Yorkshire,,225,2,,,
+http://data.ordnancesurvey.co.uk/id/4000000074569899,53.905505,-1.694155,Otley,Yorkshire,,202,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074571739,53.683768,-0.012449,Patrington,Yorkshire,,189,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074556001,54.245773,-0.777141,Pickering,Yorkshire,,221,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074543650,53.930497,-0.778634,Pocklington,Yorkshire,,192,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074572911,53.691312,-1.31156,Pontefract,Yorkshire,,177,2,,,
+http://data.ordnancesurvey.co.uk/id/4000000074555205,54.40311,-1.738111,Richmond,Yorkshire,,233,2,,,
+http://data.ordnancesurvey.co.uk/id/4000000074547245,54.039892,-1.567941,Ripley,Yorkshire,,200,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074547265,54.136327,-1.523746,Rippon,Yorkshire,Ripon,224,2,,,
+http://data.ordnancesurvey.co.uk/id/4000000074569937,53.430296,-1.35759,Rotherham,Yorkshire,,159,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074572424,54.283503,-0.396851,Scarborough,Yorkshire,,235,2,0.5,,http://www.british-history.ac.uk/vch/yorks/north/vol2/pp538-560#p56
+http://data.ordnancesurvey.co.uk/id/4000000074543658,53.78395,-1.06881,Selby,Yorkshire,,178,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074565008,54.068838,-2.27676,Settle,Yorkshire,,233,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074569935,53.383349,-1.465148,Sheffield,Yorkshire,,161,,0.5,,https://sheffieldmarkets.com/markets/moor-market/history
+http://data.ordnancesurvey.co.uk/id/4000000074554507,53.797669,-1.251923,Sherburne,Yorkshire,Sherburn in Elmet,179,,,,https://sheffieldmarkets.com/markets/moor-market/history
+http://data.ordnancesurvey.co.uk/id/4000000074567289,53.96078,-2.01693,Skipton,Yorkshire,,271,,,,https://www.google.co.nz/books/edition/History_of_Skipton/z78HAAAAQAAJ?hl=en&gbpv=1&pg=PA294&printsec=frontcover
+http://data.ordnancesurvey.co.uk/id/4000000074546776,53.691775,-1.030146,Snaith,Yorkshire,,171,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074543628,53.769272,-0.600476,South Cave,Yorkshire,,179,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074575842,54.469912,-1.192866,Stokesley,Yorkshire,,239,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074562774,53.883937,-1.26158,Tadcaster,Yorkshire,,186,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074547738,54.232721,-1.342443,Thirsk,Yorkshire,,219,2,,,
+http://data.ordnancesurvey.co.uk/id/4000000074546483,53.610907,-0.960882,Thorne,Yorkshire,,163,,1,,
+http://data.ordnancesurvey.co.uk/id/4000000074573196,53.682969,-1.499025,Wakefield,Yorkshire,,182,,1,,https://books.google.co.nz/books?id=qqULAAAAYAAJ&pg=PA49
+http://data.ordnancesurvey.co.uk/id/4000000074543916,53.864851,-0.667734,Weighton,Yorkshire,Market Weighton,188,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074560559,53.92815,-1.38683,Wetherby,Yorkshire,,194,,,,
+http://data.ordnancesurvey.co.uk/id/4000000074559320,54.509134,-1.354258,Yarm,Yorkshire,,244,,1,,
+http://data.ordnancesurvey.co.uk/id/4000000074557107,53.959624,-1.082062,York,Yorkshire,,197,2,1,,http://www.british-history.ac.uk/vch/yorks/city-of-york/pp481-491#p21
