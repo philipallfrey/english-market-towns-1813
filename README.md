@@ -3,7 +3,7 @@ This dataset came about because I wanted to investigate whether urban areas in g
 
 ## Data
 
-The 698 towns entered in the dataset are those from English counties in the county-by-county listings of fairs in *Owen's New Book of Fairs* (1813) (https://books.google.co.nz/books?id=lrdVAAAAcAAJ&pg=PR3&dq=owens+fairs+1813&hl=en&newbks=1&newbks_redir=0&sa=X&ved=2ahUKEwiRiqnjzuz_AhVzilYBHc0JClwQ6AF6BAgJEAI#v=onepage&q=owens%20fairs%201813&f=false) which have one or more weekly market days noted (or in the case of Seeching, Norfolk and Adwalton, Yorkshire a fortnightly one). Data were entered using the MapBox dataset editor (https://www.mapbox.com/) and saved as a `FeatureCollection` in GeoJSON format (http://geojson.org/)
+The 698 towns entered in the dataset are those from English counties in the county-by-county listings of fairs in *Owen's New Book of Fairs* (1813) (https://www.google.co.nz/books/edition/Owen_s_New_Book_of_Fairs_A_new_edition_e/lrdVAAAAcAAJ) which have one or more weekly market days noted (or in the case of Seeching, Norfolk and Adwalton, Yorkshire a fortnightly one). Data were entered using the MapBox dataset editor (https://www.mapbox.com/) and saved as a `FeatureCollection` in GeoJSON format (http://geojson.org/)
 
 The data for each town is in the following form:
 
@@ -36,7 +36,7 @@ The `coordinates` for the `geometry` are expressed in the order longitude, latit
 
 The `county` property uses the spelling as found in Owens, so may have an extra -shire compared to modern usage (e.g. Somersetshire).
 
-The `distance_to_london` is the value in miles given in Owens, and presumably refers to the distance by main road, rather than as the crow flies. For the few cases where Owens did not provide a number, I took the distance given in W.C. Oulton, *Traveller's Guide, or English Itinerary* (1805) (Vol 1: https://www.google.co.nz/books/edition/The_Traveller_s_Guide_Or_English_Itinera/MHUCAAAAMAAJ?hl=en&gbpv=1&printsec=frontcover, Vol 2: https://www.google.co.nz/books/edition/The_Traveller_s_Guide/MnUCAAAAMAAJ?hl=en&gbpv=1). Otherwise the deficiency was fixed by finding the nearest town radially inward towards London for which Owens provided a distance, then adding the modern driving distance as suggested by Google Maps.
+The `distance_to_london` is the value in miles given in Owens, and presumably refers to the distance by main road, rather than as the crow flies. For the few cases where Owens did not provide a number, I took the distance given in W.C. Oulton, *Traveller's Guide, or English Itinerary* (1805) (Vol 1: https://www.google.co.nz/books/edition/The_Traveller_s_Guide_Or_English_Itinera/MHUCAAAAMAAJ, Vol 2: https://www.google.co.nz/books/edition/The_Traveller_s_Guide/MnUCAAAAMAAJ). Otherwise the deficiency was fixed by finding the nearest town radially inward towards London for which Owens provided a distance, then adding the modern driving distance as suggested by Google Maps.
 
 The `location_uncertain` property takes a value of `1` when I was not able to determine the historic location of the market.
 
@@ -48,9 +48,9 @@ The `reference` property is present when I needed to use additional information 
 
 The `silver_street` property records whether there is a road named "Silver Street" in proximity to the historic market place. This property takes the values `1` (Silver Street leads into the market place), `0.75` (Silver Street is off a road leading into the market place), or `0.5` (elsewhere in the town). This property was added after a first pass through the data when I noticed that this occurred frequently (approximately 10% of market towns).
 
-For upload to Knowledge Commons I converted the data to CSV format, with the headers `id, latitude, longitude, place_name, county,	alternate_name, distance_to_london, number_mps, silver_street, location_uncertain, reference`
+For upload to Knowledge Commons I converted the data to CSV format, with the headers `id, latitude, longitude, place_name, county, alternate_name, distance_to_london, number_mps, silver_street, location_uncertain, reference`
 
-## Methodology
+## Method
 
 ### 1. Locate the town
 In most cases this simply required entering the name of the town and county into the search field of the MapBox dataset editor. Where this failed (e.g. because the modern name of the town is different) entering the name and county into Google would frequently return the modern name as a suggested search.
